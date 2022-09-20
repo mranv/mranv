@@ -56,5 +56,5 @@
 <a href="https://linkedin.com/in/anubhavgain"><img src="https://img.shields.io/badge/-Anubhav%20Gain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:iamanubhavgain@gmail.com"><img src="https://img.shields.io/badge/-iamanubhavgain@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mr.anv"><img src="https://img.shields.io/badge/-@mr.anv-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/Anubhav"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/mr.anv.1"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
