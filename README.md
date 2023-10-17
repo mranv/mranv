@@ -59,4 +59,4 @@
 <a href="https://www.facebook.com/mr.anv.1"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png" width="300" />
+![image](https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png)
