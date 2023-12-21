@@ -4,12 +4,61 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Cyber Security & Digital Forensics at the Parul University.\
-🌱 &nbsp;I'm on track for learning more about Cyber Security, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Website Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at iamanubhavgain@gmail.com! I'll try to respond as soon as I can.
+## Overview
+
+This document provides a summary of my cybersecurity background, skills, certifications, and experience. It highlights my technical expertise across cloud security, network security, fraud detection, and cyber forensics. The summary also conveys my leadership experience and passion for innovating in the cybersecurity domain.
+
+## Skills
+
+- Cloud Security
+    - Configured secure AWS cloud architectures
+    - Implemented role-based access controls
+    - Performed cloud security assessments
+    - AWS Certified
+- Network Security 
+    - Hardened network infrastructures
+    - Deployed next-gen firewalls and IDS/IPS
+    - Conducted penetration tests
+    - Responded to intrusions
+    - CCNA Cyber Ops, Security+ certified
+- Fraud Detection
+    - Analyzed financial datasets 
+    - Developed machine learning models
+    - Identified fraudulent payment transactions
+    - Sharp data analytics skills
+- Cyber Forensics
+    - Performed malware analysis
+    - Memory forensics
+    - Mobile forensics
+    - Cryptocurrency investigations
+    - CHFI, CEH certified
+
+## Experience
+
+**Information Security Consultant** @ TechAnv  
+*Dates*
+- Provide services like risk assessments, compliance audits, incident response
+
+**Data Analyst - Fraud Investigations** @ JPMorgan Chase 
+*Dates* 
+- Investigated financial fraud by analyzing datasets
+
+**IT Specialist - Cloud & Network Security** @ Parul University
+*Dates*
+- Secured cloud and network environments
+
+## Certifications
+
+- AWS Certified 
+- CCNA Cyber Ops
+- Security+
+- CHFI
+- CEH
+
+## Contact Info
+
+**Email:** iamanubhavgain@gmail.com  
+**LinkedIn:** *linkedin.com/in/anubhavgain*
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
