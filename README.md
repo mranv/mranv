@@ -4,8 +4,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-## Overview
-
 This document provides a summary of my cybersecurity background, skills, certifications, and experience. It highlights my technical expertise across cloud security, network security, fraud detection, and cyber forensics. The summary also conveys my leadership experience and passion for innovating in the cybersecurity domain.
 
 ## Skills
