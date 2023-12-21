@@ -56,7 +56,7 @@ This document provides a summary of my cybersecurity background, skills, certifi
 ## Contact Info
 
 **Email:** iamanubhavgain@gmail.com  
-**LinkedIn:** *linkedin.com/in/anubhavgain*
+**LinkedIn:** *https://linkedin.com/in/anubhavgain*
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
