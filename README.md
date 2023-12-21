@@ -1,5 +1,10 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Anubhav</h2>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 <!-- ## 👋 &nbsp;Hey there! I'm Anubhav Gain -->
 
 ### 👨🏻‍💻 &nbsp;About Me
