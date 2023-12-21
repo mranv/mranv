@@ -63,7 +63,7 @@ This document provides a summary of my cybersecurity background, skills, certifi
 **Email:** iamanubhavgain@gmail.com  
 **LinkedIn:** *https://linkedin.com/in/anubhavgain*
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mranv)](https://github.com/mranv)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mranv&theme=onedark)](https://github.com/mranv)
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
