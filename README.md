@@ -39,15 +39,15 @@ This document provides a summary of my cybersecurity background, skills, certifi
 ## Experience
 
 **Information Security Consultant** @ TechAnv  
-*Dates*
+*Dates* 2022 - Present
 - Provide services like risk assessments, compliance audits, incident response
 
 **Data Analyst - Fraud Investigations** @ JPMorgan Chase 
-*Dates* 
+*Dates* 2023 
 - Investigated financial fraud by analyzing datasets
 
 **IT Specialist - Cloud & Network Security** @ Parul University
-*Dates*
+*Dates* 2022 - 2023
 - Secured cloud and network environments
 
 ## Certifications
