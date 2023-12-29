@@ -11,7 +11,7 @@
 
 This document provides a summary of my cybersecurity background, skills, certifications, and experience. It highlights my technical expertise across cloud security, network security, fraud detection, and cyber forensics. The summary also conveys my leadership experience and passion for innovating in the cybersecurity domain.
 
-## Skills
+### 🛡️ &nbsp;Skills
 
 - Cloud Security
     - Configured secure AWS cloud architectures
@@ -36,7 +36,7 @@ This document provides a summary of my cybersecurity background, skills, certifi
     - Cryptocurrency investigations
     - CHFI, CEH certified
 
-## Experience
+### 📈 &nbsp;Experience
 
 **Information Security Consultant** @ TechAnv  
 *Dates* 2022 - Present
@@ -50,7 +50,7 @@ This document provides a summary of my cybersecurity background, skills, certifi
 *Dates* 2022 - 2023
 - Secured cloud and network environments
 
-## Certifications
+### 🏅 &nbsp;Certifications
 
 - AWS Certified 
 - CCNA Cyber Ops
@@ -58,10 +58,6 @@ This document provides a summary of my cybersecurity background, skills, certifi
 - CHFI
 - CEH
 
-## Contact Info
-
-**Email:** iamanubhavgain@gmail.com  
-**LinkedIn:** *https://linkedin.com/in/anubhavgain*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mranv&theme=onedark)](https://github.com/mranv)
 
@@ -109,4 +105,7 @@ This document provides a summary of my cybersecurity background, skills, certifi
 <a href="https://www.facebook.com/mr.anv.1"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<script src="https://cyberdefenders.org/p/mranv/badge"></script>
+<div align="center">
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png" />
+</div>
+
