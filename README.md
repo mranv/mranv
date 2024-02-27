@@ -9,54 +9,72 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-This document provides a summary of my cybersecurity background, skills, certifications, and experience. It highlights my technical expertise across cloud security, network security, fraud detection, and cyber forensics. The summary also conveys my leadership experience and passion for innovating in the cybersecurity domain.
+I am Anubhav Gain, a cybersecurity professional based in Vadodara, Gujarat, India, with a passion for enhancing digital defenses and driving transformative growth in the cybersecurity domain. With a Bachelor of Technology degree in Cyber/Computer Forensics and Counterterrorism from Parul University and Licentiate degrees in Ransomware Techniques and Cybersecurity Management from Charles Sturt University, I possess a strong educational background complemented by practical experience.
 
-### 🛡️ &nbsp;Skills
+### 🛡️ &nbsp;Skills 
+
+- Rust (Programming Language)
+
+- Information Security
+
+- Threat & Vulnerability Management
 
 - Cloud Security
-    - Configured secure AWS cloud architectures
-    - Implemented role-based access controls
-    - Performed cloud security assessments
-    - AWS Certified
+
 - Network Security 
-    - Hardened network infrastructures
-    - Deployed next-gen firewalls and IDS/IPS
-    - Conducted penetration tests
-    - Responded to intrusions
-    - CCNA Cyber Ops, Security+ certified
+
 - Fraud Detection
-    - Analyzed financial datasets 
-    - Developed machine learning models
-    - Identified fraudulent payment transactions
-    - Sharp data analytics skills
+
 - Cyber Forensics
-    - Performed malware analysis
-    - Memory forensics
-    - Mobile forensics
-    - Cryptocurrency investigations
-    - CHFI, CEH certified
+
+- Responsive Web Design
 
 ### 📈 &nbsp;Experience
 
-**Information Security Consultant** @ TechAnv  
-*Dates* 2022 - Present
-- Provide services like risk assessments, compliance audits, incident response
+**Owner, techanv Consulting**  
 
-**Data Analyst - Fraud Investigations** @ JPMorgan Chase 
-*Dates* 2023 
-- Investigated financial fraud by analyzing datasets
+_December 2022 - Present_
 
-**IT Specialist - Cloud & Network Security** @ Parul University
-*Dates* 2022 - 2023
-- Secured cloud and network environments
+Vadodara, Gujarat, India
 
-### 🏅 &nbsp;Certifications
+At TechAnv, we specialize in providing top-notch IT consulting services to businesses seeking to optimize their technology infrastructure. With our extensive industry knowledge and expertise, we help organizations harness the power of technology to drive growth, efficiency, and innovation.
 
-- AWS Certified 
-- CCNA Cyber Ops
-- Security+
-- CHFI
-- CEH
+**Security Engineer, Lucid Growth**
+
+_October 2023 - November 2023_ 
+
+Bengaluru, Karnataka, India
+
+Implemented stringent security protocols, conducted risk assessments, and responded to security incidents, enhancing the digital infrastructure's resilience against evolving threats.
+
+**IT Specialist, Parul University**
+
+_November 2022 - October 2023_
+
+Vadodara, Gujarat, India
+
+Deployed fortified AWS architectures, engineered Windows environments, and troubleshooted network issues to ensure robust security measures.
+
+**Data Analyst - Fraud Detection, JPMorgan Chase & Co.**
+
+_July 2023 - July 2023_  
+
+Analyzed financial datasets, utilized statistical methods and machine learning algorithms to detect fraudulent transactions, contributing to enhanced payment service security.
+
+### 🏅 &nbsp;Certifications  
+
+**Security Program Regulatory Integration** - _Demonstrates expertise in aligning security programs with industry regulations and standards, a crucial skill for governance and compliance._ 
+
+**Anomaly Detection: Network Anomaly Detection** - _Validates proficiency in detecting anomalous network activity through statistical and machine learning techniques, critical for threat detection._
+
+**Cybersecurity Virtual Experience Program** - _Proves hands-on experience responding to real-world cybersecurity challenges within enterprise environments._ 
+
+**Fundamentals of Information Security** - _Verifies core knowledge spanning cryptography, access controls, operations security, disaster recovery, and business continuity practices._
+
+**Responsive Web Design** - _Confirms capabilities in developing secure, mobile-friendly web interfaces optimized across devices and browsers._
+
+[_Credly Badges_](https://www.credly.com/users/anubhavgain/badges) [_LinkedIn Licenses_](https://www.linkedin.com/in/anubhavgain/details/certifications)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mranv&theme=onedark)](https://github.com/mranv)
