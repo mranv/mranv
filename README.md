@@ -1,4 +1,7 @@
-<img alt="Anubhav Gain" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Anubhav Gain</h2>
+<div>
+  <img alt="Anubhav Gain" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+  <h2>Hey there! I'm Anubhav Gain</h2>
+</div>
 
 
 
@@ -91,6 +94,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 [![trophy](https://github-profile-trophy.vercel.app/?username=mranv&theme=onedark)](https://github.com/mranv)
 
 <img alt="Anubhav Gain" src=https://randommeme-five.vercel.app/ align="right" style="height: 400px;"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
