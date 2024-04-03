@@ -1,48 +1,37 @@
 <div>
   <img alt="Anubhav Gain" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-  <h2>Hey there! I'm Anubhav Gain</h2>
+  <h1>Cybersecurity Professional | Anubhav Gain</h1>
 </div>
-
-
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mranv/count.svg" />
+  <img src="https://profile-counter.glitch.me/mranv/count.svg" alt="Profile Visitors Count" />
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am Anubhav Gain, a cybersecurity professional based in Vadodara, Gujarat, India, with a passion for enhancing digital defenses and driving transformative growth in the cybersecurity domain. With a Bachelor of Technology degree in Cyber/Computer Forensics and Counterterrorism from Parul University and Licentiate degrees in Ransomware Techniques and Cybersecurity Management from Charles Sturt University, I possess a strong educational background complemented by practical experience.
-
-
+I am Anubhav Gain, a cybersecurity professional based in Vadodara, Gujarat, India, with a passion for enhancing digital defenses and driving transformative growth in the cybersecurity domain. I hold a Bachelor of Technology degree in Cyber/Computer Forensics and Counterterrorism from Parul University and Licentiate degrees in Ransomware Techniques and Cybersecurity Management from Charles Sturt University. My strong educational background is complemented by practical experience in various domains of cybersecurity.
 
 ### 🛡️ &nbsp;Skills 
 
-- Rust (Programming Language)
-
+- Rust Programming Language
 - Information Security
-
 - Threat & Vulnerability Management
-
 - Cloud Security
-
 - Network Security 
-
 - Fraud Detection
-
 - Cyber Forensics
-
 - Responsive Web Design
 
 ### 📈 &nbsp;Experience
 
-**Owner, techanv Consulting**  
+**Owner, TechAnv Consulting**  
 
 _December 2022 - Present_
 
 Vadodara, Gujarat, India
 
-At TechAnv, we specialize in providing top-notch IT consulting services to businesses seeking to optimize their technology infrastructure. With our extensive industry knowledge and expertise, we help organizations harness the power of technology to drive growth, efficiency, and innovation.
+TechAnv specializes in providing top-notch IT consulting services to businesses seeking to optimize their technology infrastructure. We leverage extensive industry knowledge and expertise to help organizations drive growth, efficiency, and innovation through technology.
 
 **Security Engineer, Lucid Growth**
 
@@ -50,7 +39,7 @@ _October 2023 - November 2023_
 
 Bengaluru, Karnataka, India
 
-Implemented stringent security protocols, conducted risk assessments, and responded to security incidents, enhancing the digital infrastructure's resilience against evolving threats.
+Implemented stringent security protocols, conducted risk assessments, and responded to security incidents, enhancing digital infrastructure resilience against evolving threats.
 
 **IT Specialist, Parul University**
 
@@ -69,27 +58,25 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 ### 🏅 &nbsp;Certifications  
 
-**Security Program Regulatory Integration** - _Demonstrates expertise in aligning security programs with industry regulations and standards, a crucial skill for governance and compliance._ 
+**Security Program Regulatory Integration** - Demonstrates expertise in aligning security programs with industry regulations and standards, crucial for governance and compliance.
 
-**Anomaly Detection: Network Anomaly Detection** - _Validates proficiency in detecting anomalous network activity through statistical and machine learning techniques, critical for threat detection._
+**Anomaly Detection: Network Anomaly Detection** - Validates proficiency in detecting anomalous network activity through statistical and machine learning techniques, critical for threat detection.
 
-**Cybersecurity Virtual Experience Program** - _Proves hands-on experience responding to real-world cybersecurity challenges within enterprise environments._ 
+**Cybersecurity Virtual Experience Program** - Proves hands-on experience responding to real-world cybersecurity challenges within enterprise environments.
 
-**Fundamentals of Information Security** - _Verifies core knowledge spanning cryptography, access controls, operations security, disaster recovery, and business continuity practices._
+**Fundamentals of Information Security** - Verifies core knowledge spanning cryptography, access controls, operations security, disaster recovery, and business continuity practices.
 
-**Responsive Web Design** - _Confirms capabilities in developing secure, mobile-friendly web interfaces optimized across devices and browsers._
+**Responsive Web Design** - Confirms capabilities in developing secure, mobile-friendly web interfaces optimized across devices and browsers.
 
-[_Credly Badges_](https://www.credly.com/users/anubhavgain/badges) [_LinkedIn Licenses_](https://www.linkedin.com/in/anubhavgain/details/certifications)
-
+[View Credly Badges](https://www.credly.com/users/anubhavgain/badges) | [LinkedIn Certifications](https://www.linkedin.com/in/anubhavgain/details/certifications)
 
 ### 🥷🏻 &nbsp;Defender at CyberDefenders
 
 <div align="center">
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png" />
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png" alt="CyberDefenders Badge" />
 </div>
 
 ### 🏆 &nbsp;Trophies
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mranv&theme=onedark)](https://github.com/mranv)
 
@@ -99,7 +86,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 ### 🛠 &nbsp;Tech Stack
 
-- Big Data & Data Processing
+#### Big Data & Data Processing
   
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black)
@@ -107,7 +94,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
 
-- Cloud Services
+#### Cloud Services
   
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
@@ -123,7 +110,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=plastic&logo=vultr)
 
-- DevOps & Deployment
+#### DevOps & Deployment
   
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
@@ -142,13 +129,13 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- Networking & Security
+#### Networking & Security
   
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 
-- Programming Languages
+#### Programming Languages
   
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=plastic)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=plastic)
@@ -159,7 +146,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=plastic)
 
-- Tools
+#### Tools
   
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -174,22 +161,21 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 <p align="center">
 <a href="https://github.com/mranv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mranv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mranv&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mranv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mranv&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.techanv.com"><img src="https://img.shields.io/badge/-techanv.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/anubhavgain"><img src="https://img.shields.io/badge/-Anubhav%20Gain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:iamanubhavgain@gmail.com"><img src="https://img.shields.io/badge/-iamanubhavgain@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/anubhavgain"><img src="https://img.shields.io/badge/-@anubhavgain-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mr.anv.1"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.techanv.com"><img src="https://img.shields.io/badge/-techanv.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Personal Website"/></a>
+<a href="https://linkedin.com/in/anubhavgain"><img src="https://img.shields.io/badge/-Anubhav%20Gain-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+<a href="mailto:iamanubhavgain@gmail.com"><img src="https://img.shields.io/badge/-iamanubhavgain@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/></a>
+<a href="https://instagram.com/anubhavgain"><img src="https://img.shields.io/badge/-@anubhavgain-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Profile"/></a>
+<a href="https://www.facebook.com/mr.anv.1"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Profile"/></a>
 </p>
 
-
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Quote"/>
 </div>
