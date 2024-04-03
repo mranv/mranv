@@ -1,10 +1,9 @@
-<div>
-  <img alt="Anubhav Gain" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<div align="center">
+  <img alt="Anubhav Gain" src="./assets/Hand%20Wave.gif" width='40'/>
   <h1>Cybersecurity Professional | Anubhav Gain</h1>
 </div>
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/mranv/count.svg" alt="Profile Visitors Count" />
 </p>
 
