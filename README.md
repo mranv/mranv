@@ -11,20 +11,24 @@
 
 I am Anubhav Gain, a cybersecurity professional based in Vadodara, Gujarat, India, with a passion for enhancing digital defenses and driving transformative growth in the cybersecurity domain. I hold a Bachelor of Technology degree in Cyber/Computer Forensics and Counterterrorism from Parul University and Licentiate degrees in Ransomware Techniques and Cybersecurity Management from Charles Sturt University. My strong educational background is complemented by practical experience in various domains of cybersecurity.
 
-### 🛡️ &nbsp;Skills 
+---
+
+### 🛡️ &nbsp;Skills
 
 - Rust Programming Language
 - Information Security
 - Threat & Vulnerability Management
 - Cloud Security
-- Network Security 
+- Network Security
 - Fraud Detection
 - Cyber Forensics
 - Responsive Web Design
 
+---
+
 ### 📈 &nbsp;Experience
 
-**Owner, TechAnv Consulting**  
+**Owner, TechAnv Consulting**
 
 _December 2022 - Present_
 
@@ -34,7 +38,7 @@ TechAnv specializes in providing top-notch IT consulting services to businesses 
 
 **Security Engineer, Lucid Growth**
 
-_October 2023 - November 2023_ 
+_October 2023 - November 2023_
 
 Bengaluru, Karnataka, India
 
@@ -50,12 +54,13 @@ Deployed fortified AWS architectures, engineered Windows environments, and troub
 
 **Data Analyst - Fraud Detection, JPMorgan Chase & Co.**
 
-_July 2023 - July 2023_  
+_July 2023 - July 2023_
 
 Analyzed financial datasets, utilized statistical methods and machine learning algorithms to detect fraudulent transactions, contributing to enhanced payment service security.
 
+---
 
-### 🏅 &nbsp;Certifications  
+### 🏅 &nbsp;Certifications
 
 **Security Program Regulatory Integration** - Demonstrates expertise in aligning security programs with industry regulations and standards, crucial for governance and compliance.
 
@@ -69,11 +74,41 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 [View Credly Badges](https://www.credly.com/users/anubhavgain/badges) | [LinkedIn Certifications](https://www.linkedin.com/in/anubhavgain/details/certifications)
 
+[<img align="left" width="100px" src="assets/certificates/endpoint-security.png"/>](https://www.credly.com/earner/earned/badge/8985bad1-afdb-4585-a5ae-55c8934e0691)
+
+[<img align="left" width="100px" src="assets/certificates/network-defense.png"/>](https://www.credly.com/earner/earned/badge/76d416a9-8df6-42bd-9ce1-d45f62808f97)
+
+[<img align="left" width="100px" src="assets/certificates/cyber-threat-management.png"/>](https://www.credly.com/earner/earned/badge/ddae222d-3448-46e1-8c92-770708a37ae9)
+
+[<img align="left" width="100px" src="assets/certificates/opswat-introduction-to-critical-infrastructure-protection-icip.png"/>](https://www.credly.com/earner/earned/badge/bcfe3849-5490-4c6f-86b6-6e3a0e2970a2)
+
+[<img align="left" width="100px" src="assets/certificates/cyber-security-and-infosec.png"/>](https://www.credly.com/earner/earned/badge/a8671f54-f749-4359-9a3c-70af45503545)
+
+[<img align="left" width="100px" src="assets/certificates/enterprise-design-thinking-practitioner.png"/>](https://www.credly.com/earner/earned/badge/2f4a07b7-e07d-4454-a0b9-59d610e48c05)
+
+[<img align="left" width="100px" src="assets/certificates/google-cybersecurity-certificate.png"/>](https://www.credly.com/earner/earned/badge/3970bfad-8620-4eab-89a2-54fc80532b5c)
+
+[<img align="left" width="100px" src="assets/certificates/google-it-support-professional-certificate.1.png"/>](https://www.credly.com/earner/earned/badge/5c80926a-b4a4-4288-adbe-bf0289d68046)
+
+[<img align="left" width="100px" src="assets/certificates/ibm-cybersecurity-analyst-professional-certificate.png"/>](https://www.credly.com/earner/earned/badge/f7339e66-931e-4233-b9f6-f4adc026d3b6)
+
+[<img align="left" width="100px" src="assets/certificates/security-analyst-fundamentals-specialization.png"/>](https://www.credly.com/earner/earned/badge/7041f3dc-620c-4005-8963-2d5350ba6ce8)
+
+[<img align="left" width="100px" src="assets/certificates/intel-cloud-fundamentals.png"/>](https://www.credly.com/earner/earned/badge/9ee45dbc-af3c-4dc3-8654-0cd8c2a4a6ce)
+
+[<img align="left" width="100px" src="assets/certificates/intel-solution-pro-cloud-business-professional.png"/>](https://www.credly.com/earner/earned/badge/07b0fcb7-9cdc-46e8-abf7-420e9aabfcde)
+
+[<img align="left" width="100px" src="assets/certificates/open-source-software-development-linux-and-git-specialization.png"/>](https://www.credly.com/earner/earned/badge/9d71c632-e793-4d71-8789-58402017445f)
+
+---
+
 ### 🥷🏻 &nbsp;Defender at CyberDefenders
 
 <div align="center">
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png" alt="CyberDefenders Badge" />
 </div>
+
+---
 
 ### 🏆 &nbsp;Trophies
 
@@ -83,10 +118,12 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
   <img alt="Anubhav Gain" src="https://randommeme-five.vercel.app/" align="right" style="height: 400px;"/>
 </div>
 
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 #### Big Data & Data Processing
-  
+
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
@@ -94,7 +131,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
 
 #### Cloud Services
-  
+
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
@@ -110,7 +147,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=plastic&logo=vultr)
 
 #### DevOps & Deployment
-  
+
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
@@ -129,13 +166,13 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 #### Networking & Security
-  
+
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 
 #### Programming Languages
-  
+
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=plastic)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=plastic)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=plastic)
@@ -146,7 +183,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=plastic)
 
 #### Tools
-  
+
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -156,6 +193,8 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -164,6 +203,8 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mranv&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </a>
 </p>
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
