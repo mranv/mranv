@@ -102,7 +102,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 [<img align="left" width="100px" src="assets/certificates/api-security-for-pci-compliance.png"/>](https://www.credly.com/earner/earned/badge/e589b8ac-0308-4e2b-9c63-8e742cd336ef)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
