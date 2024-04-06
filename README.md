@@ -11,8 +11,6 @@
 
 I am Anubhav Gain, a cybersecurity professional based in Vadodara, Gujarat, India, with a passion for enhancing digital defenses and driving transformative growth in the cybersecurity domain. I hold a Bachelor of Technology degree in Cyber/Computer Forensics and Counterterrorism from Parul University and Licentiate degrees in Ransomware Techniques and Cybersecurity Management from Charles Sturt University. My strong educational background is complemented by practical experience in various domains of cybersecurity.
 
----
-
 ### 🛡️ &nbsp;Skills
 
 - Rust Programming Language
@@ -23,8 +21,6 @@ I am Anubhav Gain, a cybersecurity professional based in Vadodara, Gujarat, Indi
 - Fraud Detection
 - Cyber Forensics
 - Responsive Web Design
-
----
 
 ### 📈 &nbsp;Experience
 
@@ -57,8 +53,6 @@ Deployed fortified AWS architectures, engineered Windows environments, and troub
 _July 2023 - July 2023_
 
 Analyzed financial datasets, utilized statistical methods and machine learning algorithms to detect fraudulent transactions, contributing to enhanced payment service security.
-
----
 
 ### 🏅 &nbsp;Certifications
 
@@ -104,15 +98,11 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 <br/><br/><br/><br/><br/><br/><br/>
 
----
-
 ### 🥷🏻 &nbsp;Defender at CyberDefenders
 
 <div align="center">
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/mranv.png" alt="CyberDefenders Badge" />
 </div>
-
----
 
 ### 🏆 &nbsp;Trophies
 
@@ -121,8 +111,6 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 <div>
   <img alt="Anubhav Gain" src="https://randommeme-five.vercel.app/" align="right" style="height: 400px;"/>
 </div>
-
----
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -197,8 +185,6 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 
----
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -207,8 +193,6 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mranv&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
 </a>
 </p>
-
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
