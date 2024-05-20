@@ -111,9 +111,7 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mranv&theme=onedark)](https://github.com/mranv)
 
-<div>
-  <img alt="Anubhav Gain" src="https://randommeme-five.vercel.app/" align="right" style="height: 400px;"/>
-</div>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -206,7 +204,3 @@ Analyzed financial datasets, utilized statistical methods and machine learning a
 <a href="https://instagram.com/anubhavgain"><img src="https://img.shields.io/badge/-@anubhavgain-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Profile"/></a>
 <a href="https://www.facebook.com/mr.anv.1"><img src="https://img.shields.io/badge/-@Anubhav-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Profile"/></a>
 </p>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Quote"/>
-</div>
