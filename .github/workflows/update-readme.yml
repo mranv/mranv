@@ -38,6 +38,9 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript
+          plugin_code_load: 400
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
