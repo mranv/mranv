@@ -32,6 +32,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -40,6 +46,9 @@ jobs:
           plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: Anubhav Gain, mranv, mranv@users.noreply.github.com
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -50,6 +59,3 @@ jobs:
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          commits_authoring: Anubhav Gain, mranv, mranv@users.noreply.github.com
