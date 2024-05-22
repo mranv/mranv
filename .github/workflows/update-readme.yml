@@ -50,3 +50,6 @@ jobs:
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: Anubhav Gain, mranv, mranv@users.noreply.github.com
