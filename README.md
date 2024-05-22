@@ -13,9 +13,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [mranv/readydream.net](https://github.com/mranv/readydream.net) - A company specializing in commercial and residential development and renovations
+- [techanvconsulting/web.techanv.com](https://github.com/techanvconsulting/web.techanv.com) - 
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, houses the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
-- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [mranv/traycli](https://github.com/mranv/traycli) - A cli based application that checks for Wazuh Agent | Osquerry | Gatekeeper for installation, Halt &amp; Stop statements.
 ### 🌱 My latest projects
 
