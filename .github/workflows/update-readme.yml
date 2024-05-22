@@ -61,10 +61,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://lecoq.io
-          plugin_stock: yes
-          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
-          plugin_stock_symbol: TSLA
+          plugin_pagespeed_url: https://mranv.pages.dev
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
