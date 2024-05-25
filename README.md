@@ -12,32 +12,32 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/gist.api](https://github.com/mranv/gist.api) - 
+- [mranv/basicFW](https://github.com/mranv/basicFW) - 
+- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 - [mranv/readydream.net](https://github.com/mranv/readydream.net) - A company specializing in commercial and residential development and renovations
 - [techanvconsulting/web.techanv.com](https://github.com/techanvconsulting/web.techanv.com) - 
-- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
-- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, houses the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
-- [mranv/traycli](https://github.com/mranv/traycli) - A cli based application that checks for Wazuh Agent | Osquerry | Gatekeeper for installation, Halt &amp; Stop statements.
 ### 🌱 My latest projects
 
+- [mranv/gist.api](https://github.com/mranv/gist.api) - 
+- [mranv/basicFW](https://github.com/mranv/basicFW) - 
 - [mranv/readydream.net](https://github.com/mranv/readydream.net) - A company specializing in commercial and residential development and renovations
 - [mranv/traycli](https://github.com/mranv/traycli) - A cli based application that checks for Wazuh Agent | Osquerry | Gatekeeper for installation, Halt &amp; Stop statements.
 - [mranv/notification-rust](https://github.com/mranv/notification-rust) - 
-- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
-- [mranv/mswd-pu](https://github.com/mranv/mswd-pu) - 
 ### 🔨 My recent Pull Requests
 
-- [Comprehensive Improvements: Resolve Compilation Issues, Warnings, and Enhance Wazuh Agent Installation Support](https://github.com/hssheth29/wazuhchecker/pull/2) on [hssheth29/wazuhchecker](https://github.com/hssheth29/wazuhchecker)
-- [feat: Added realtime checking of status based code and impletion of the is starting service. ❤️ 🥇 ](https://github.com/mranv/invinservicedemon/pull/1) on [mranv/invinservicedemon](https://github.com/mranv/invinservicedemon)
-- [feat: Add automatic installation of Wazuh agent ( 💯  systemservice )](https://github.com/hssheth29/wazuhchecker/pull/1) on [hssheth29/wazuhchecker](https://github.com/hssheth29/wazuhchecker)
-- [feat: automatically install ClamAV if not present ( 🥇 background )](https://github.com/hssheth29/clamavchecker/pull/1) on [hssheth29/clamavchecker](https://github.com/hssheth29/clamavchecker)
-- [Enhancement: Improve osquery installation process](https://github.com/hssheth29/osqueryChecker/pull/1) on [hssheth29/osqueryChecker](https://github.com/hssheth29/osqueryChecker)
+- [Update progress](https://github.com/mranv/gist.api/pull/12) on [mranv/gist.api](https://github.com/mranv/gist.api)
+- [Update progress](https://github.com/mranv/gist.api/pull/11) on [mranv/gist.api](https://github.com/mranv/gist.api)
+- [Update progress](https://github.com/mranv/gist.api/pull/10) on [mranv/gist.api](https://github.com/mranv/gist.api)
+- [Update progress](https://github.com/mranv/gist.api/pull/9) on [mranv/gist.api](https://github.com/mranv/gist.api)
+- [Update progress](https://github.com/mranv/gist.api/pull/8) on [mranv/gist.api](https://github.com/mranv/gist.api)
 ### ⭐ Recent Stars
 
-- [iiakshat/spam-mail-detection](https://github.com/iiakshat/spam-mail-detection) - A simple text classifier in Python that uses the Naive Bayes model to classify e-mails as spam or ham.
-- [iiakshat/cifar10-tensorflow](https://github.com/iiakshat/cifar10-tensorflow) - cifar10 tensorflow image classification, using convolutional neural network (CNN). 
-- [iiakshat/nn](https://github.com/iiakshat/nn) - Neural Network from scratch, i.e using only Numpy and Math.
-- [mpolinowski/mpolinowski.github.io](https://github.com/mpolinowski/mpolinowski.github.io) - 
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
+- [keep-practicing/leetcode-go](https://github.com/keep-practicing/leetcode-go) - ✏️ Golang solution for leetcode algorithm problems 📚(continually updating 💪 😃).
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 ### 📰 Recent Blog Posts
 
 - [From NeoVim to LunarVim](https://mranv.pages.dev/posts/from-neovim-to-lunarvim/)
