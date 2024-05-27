@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/hide_process_from_taskmgr](https://github.com/mranv/hide_process_from_taskmgr) - The code includes functionalities to read and write process memory, parse import and export tables, and hook system functions.
-- [mranv/command_exec](https://github.com/mranv/command_exec) - It takes a single command-line argument and prints the result of the command execution.
 - [mranv/ldaptest](https://github.com/mranv/ldaptest) - This project demonstrates how to use the `ldap3` crate in Rust to connect to an LDAP server, perform a simple bind, and search for user entries.
 - [mranv/iathooking](https://github.com/mranv/iathooking) - This Rust project demonstrates DLL injection and process memory manipulation using the Windows API.
-- [mranv/iathooking-dll](https://github.com/mranv/iathooking-dll) - This project demonstrates the use of the Windows API to perform function hooking, process memory reading/writing, and parsing of PE (Portable Executable) headers to locate and manipulate import and export tables.
+- [mranv/pelib](https://github.com/mranv/pelib) - It uses various WinAPI functions to access and manipulate memory, read process memory, and handle PE file structures.
+- [mranv/hide_process_from_taskmgr](https://github.com/mranv/hide_process_from_taskmgr) - The code includes functionalities to read and write process memory, parse import and export tables, and hook system functions.
+- [mranv/command_exec](https://github.com/mranv/command_exec) - It takes a single command-line argument and prints the result of the command execution.
 ### 🌱 My latest projects
 
 - [mranv/syscalls](https://github.com/mranv/syscalls) - 
@@ -33,7 +33,7 @@
 - [Append Readme for better understanding of code.](https://github.com/mranv/hide_process_from_taskmgr/pull/1) on [mranv/hide_process_from_taskmgr](https://github.com/mranv/hide_process_from_taskmgr)
 ### ⭐ Recent Stars
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
 - [keep-practicing/leetcode-go](https://github.com/keep-practicing/leetcode-go) - ✏️ Golang solution for leetcode algorithm problems 📚(continually updating 💪 😃).
