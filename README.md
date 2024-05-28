@@ -12,28 +12,28 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/ldaptest](https://github.com/mranv/ldaptest) - This project demonstrates how to use the `ldap3` crate in Rust to connect to an LDAP server, perform a simple bind, and search for user entries.
-- [mranv/iathooking](https://github.com/mranv/iathooking) - This Rust project demonstrates DLL injection and process memory manipulation using the Windows API.
-- [mranv/pelib](https://github.com/mranv/pelib) - It uses various WinAPI functions to access and manipulate memory, read process memory, and handle PE file structures.
-- [mranv/hide_process_from_taskmgr](https://github.com/mranv/hide_process_from_taskmgr) - The code includes functionalities to read and write process memory, parse import and export tables, and hook system functions.
-- [mranv/command_exec](https://github.com/mranv/command_exec) - It takes a single command-line argument and prints the result of the command execution.
+- [mranv/copy.rs](https://github.com/mranv/copy.rs) - This is a simple Rust-based shell program designed to navigate directories, view file contents, and copy file contents to the clipboard.
+- [mranv/evade_vm](https://github.com/mranv/evade_vm) - This project is a proof of concept (POC) for detecting virtualized environments and full-system emulations, often used to analyze malware behavior. This detection mechanism is useful for evading malware analysis in sandboxes. The code is written in Rust and is intended for educational purposes.
+- [mranv/syscalls](https://github.com/mranv/syscalls) - This Rust program demonstrates the execution of a hardcoded shellcode using various system calls from the ntapi and winapi crates. The shellcode is a byte array that gets allocated in memory, written to the allocated address, and then executed by creating a new thread.
+- [mranv/Windows_Threads](https://github.com/mranv/Windows_Threads) - A Rust-based project exploring the use of threads through Windows API functions. 
+- [mranv/Basics](https://github.com/mranv/Basics) - The repository includes scripts for creating processes and allocating memory, which are foundational techniques in many security-related tasks.
 ### 🌱 My latest projects
 
-- [mranv/syscalls](https://github.com/mranv/syscalls) - 
-- [mranv/shellcode_exec](https://github.com/mranv/shellcode_exec) - 
-- [mranv/reverseshellonrs](https://github.com/mranv/reverseshellonrs) - 
-- [mranv/keylogger](https://github.com/mranv/keylogger) - 
-- [mranv/evade_vm](https://github.com/mranv/evade_vm) - 
+- [mranv/syscalls](https://github.com/mranv/syscalls) - This Rust program demonstrates the execution of a hardcoded shellcode using various system calls from the ntapi and winapi crates. The shellcode is a byte array that gets allocated in memory, written to the allocated address, and then executed by creating a new thread.
+- [mranv/shellcode_exec](https://github.com/mranv/shellcode_exec) - Here you can explore various shellcode execution methods utilizing WinApi&#39;s functionalities. 
+- [mranv/reverseshellonrs](https://github.com/mranv/reverseshellonrs) - A Simple Rust Based Client Server Reverse Shell.
+- [mranv/keylogger](https://github.com/mranv/keylogger) - This project is a keylogger developed in Rust, designed for educational purposes and to demonstrate how malware can be created using Rust. It logs keystrokes and system information, writing them to a log file. 
+- [mranv/evade_vm](https://github.com/mranv/evade_vm) - This project is a proof of concept (POC) for detecting virtualized environments and full-system emulations, often used to analyze malware behavior. This detection mechanism is useful for evading malware analysis in sandboxes. The code is written in Rust and is intended for educational purposes.
 ### 🔨 My recent Pull Requests
 
+- [implemented of key rings for variable valued key logger.](https://github.com/mranv/keylogger/pull/1) on [mranv/keylogger](https://github.com/mranv/keylogger)
+- [Implement Reflective DLL Loader in Rust](https://github.com/mranv/peloader64/pull/1) on [mranv/peloader64](https://github.com/mranv/peloader64)
 - [Added: readme and license to the path.](https://github.com/mranv/pelib/pull/1) on [mranv/pelib](https://github.com/mranv/pelib)
 - [Append: Data to digest into the readme &amp; license file for the LDAP querry.](https://github.com/mranv/ldaptest/pull/1) on [mranv/ldaptest](https://github.com/mranv/ldaptest)
 - [Appended: DLL Injection and Memory Manipulation in Rust.](https://github.com/mranv/iathooking/pull/1) on [mranv/iathooking](https://github.com/mranv/iathooking)
-- [Append: Readme and license fix for the WinAPI Hooking Library. ](https://github.com/mranv/iathooking-dll/pull/1) on [mranv/iathooking-dll](https://github.com/mranv/iathooking-dll)
-- [Append Readme for better understanding of code.](https://github.com/mranv/hide_process_from_taskmgr/pull/1) on [mranv/hide_process_from_taskmgr](https://github.com/mranv/hide_process_from_taskmgr)
 ### ⭐ Recent Stars
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
 - [keep-practicing/leetcode-go](https://github.com/keep-practicing/leetcode-go) - ✏️ Golang solution for leetcode algorithm problems 📚(continually updating 💪 😃).
