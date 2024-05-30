@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
+- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
-- [mranv/syscalls](https://github.com/mranv/syscalls) - This Rust program demonstrates the execution of a hardcoded shellcode using various system calls from the ntapi and winapi crates. The shellcode is a byte array that gets allocated in memory, written to the allocated address, and then executed by creating a new thread.
-- [mranv/copy.rs](https://github.com/mranv/copy.rs) - This is a simple Rust-based shell program designed to navigate directories, view file contents, and copy file contents to the clipboard.
-- [mranv/evade_vm](https://github.com/mranv/evade_vm) - This project is a proof of concept (POC) for detecting virtualized environments and full-system emulations, often used to analyze malware behavior. This detection mechanism is useful for evading malware analysis in sandboxes. The code is written in Rust and is intended for educational purposes.
-- [techanvconsulting/web.techanv.com](https://github.com/techanvconsulting/web.techanv.com) - 
+- [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
+- [mranv/redteam](https://github.com/mranv/redteam) - A list of few red team pentesting tools.
 ### 🌱 My latest projects
 
-- [mranv/redteam](https://github.com/mranv/redteam) - A list of few read team pentesting tools.
+- [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
+- [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
+- [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
+- [mranv/redteam](https://github.com/mranv/redteam) - A list of few red team pentesting tools.
 - [mranv/rustexamples.rs](https://github.com/mranv/rustexamples.rs) - This repo contains the rust based example code for optimal checking in rustlings.
-- [mranv/syscalls](https://github.com/mranv/syscalls) - This Rust program demonstrates the execution of a hardcoded shellcode using various system calls from the ntapi and winapi crates. The shellcode is a byte array that gets allocated in memory, written to the allocated address, and then executed by creating a new thread.
-- [mranv/shellcode_exec](https://github.com/mranv/shellcode_exec) - Here you can explore various shellcode execution methods utilizing WinApi&#39;s functionalities. 
-- [mranv/reverseshellonrs](https://github.com/mranv/reverseshellonrs) - A Simple Rust Based Client Server Reverse Shell.
 ### 🔨 My recent Pull Requests
 
 - [implemented of key rings for variable valued key logger.](https://github.com/mranv/keylogger/pull/1) on [mranv/keylogger](https://github.com/mranv/keylogger)
@@ -33,11 +33,11 @@
 - [Appended: DLL Injection and Memory Manipulation in Rust.](https://github.com/mranv/iathooking/pull/1) on [mranv/iathooking](https://github.com/mranv/iathooking)
 ### ⭐ Recent Stars
 
+- [Hugal31/yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings for VirusTotal/Yara
+- [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
+- [AmielCyber/ReactRoastDotnet](https://github.com/AmielCyber/ReactRoastDotnet) - Coffee Shop website using React with Vite and React Router, and ASP.NET with Entity Framework and Authentication
+- [mullvad/windows-service-rs](https://github.com/mullvad/windows-service-rs) - Windows services in Rust
 - [BekBrace/rust-tcp-server](https://github.com/BekBrace/rust-tcp-server) - This is creating a TCP Server using Rust  programming language 
-- [AkhilSharma90/Rust-Chat-GPT-Project](https://github.com/AkhilSharma90/Rust-Chat-GPT-Project) - A simple Rust project that uses chat-gpt, accompanies my YT video of the same name.
-- [AkhilSharma90/Rust-CLI-Downloader](https://github.com/AkhilSharma90/Rust-CLI-Downloader) - A Rust CLI tool to download Youtube videos (can be used for other websites as well such as tiktok)
-- [AkhilSharma90/docbot](https://github.com/AkhilSharma90/docbot) - A very fast Rust tool to crack a password protected PDF (Dangerous ☠️)
-- [AkhilSharma90/rust_surrealdb_API](https://github.com/AkhilSharma90/rust_surrealdb_API) - A CRUD API with Rust and SurrealDB
 ### 📰 Recent Blog Posts
 
 - [From NeoVim to LunarVim](https://mranv.pages.dev/posts/from-neovim-to-lunarvim/)
