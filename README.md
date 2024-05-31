@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
-- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
+- [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
 - [mranv/redteam](https://github.com/mranv/redteam) - A list of few red team pentesting tools.
+- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 ### 🌱 My latest projects
 
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
@@ -33,11 +33,11 @@
 - [Appended: DLL Injection and Memory Manipulation in Rust.](https://github.com/mranv/iathooking/pull/1) on [mranv/iathooking](https://github.com/mranv/iathooking)
 ### ⭐ Recent Stars
 
+- [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
 - [Hugal31/yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings for VirusTotal/Yara
 - [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
 - [AmielCyber/ReactRoastDotnet](https://github.com/AmielCyber/ReactRoastDotnet) - Coffee Shop website using React with Vite and React Router, and ASP.NET with Entity Framework and Authentication
 - [mullvad/windows-service-rs](https://github.com/mullvad/windows-service-rs) - Windows services in Rust
-- [BekBrace/rust-tcp-server](https://github.com/BekBrace/rust-tcp-server) - This is creating a TCP Server using Rust  programming language 
 ### 📰 Recent Blog Posts
 
 - [From NeoVim to LunarVim](https://mranv.pages.dev/posts/from-neovim-to-lunarvim/)
