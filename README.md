@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 - [mranv/anvos.rs](https://github.com/mranv/anvos.rs) - A minimal operating system written in Rust with uefi boot.
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
-- [mranv/redteam](https://github.com/mranv/redteam) - A list of few red team pentesting tools.
 ### 🌱 My latest projects
 
+- [mranv/myconf](https://github.com/mranv/myconf) - unix &amp; like-unix zsh config dot files.
 - [mranv/anvos.rs](https://github.com/mranv/anvos.rs) - A minimal operating system written in Rust with uefi boot.
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
 - [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
 - [mranv/redteam](https://github.com/mranv/redteam) - A list of few red team pentesting tools.
-- [mranv/rustexamples.rs](https://github.com/mranv/rustexamples.rs) - This repo contains the rust based example code for optimal checking in rustlings.
 ### 🔨 My recent Pull Requests
 
 - [implemented of key rings for variable valued key logger.](https://github.com/mranv/keylogger/pull/1) on [mranv/keylogger](https://github.com/mranv/keylogger)
@@ -33,18 +33,18 @@
 - [Appended: DLL Injection and Memory Manipulation in Rust.](https://github.com/mranv/iathooking/pull/1) on [mranv/iathooking](https://github.com/mranv/iathooking)
 ### ⭐ Recent Stars
 
+- [pixegami/terminal-profile](https://github.com/pixegami/terminal-profile) - This is my profile for UNIX (MacOS/Linux) terminals.
 - [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
 - [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
 - [Hugal31/yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings for VirusTotal/Yara
 - [mranv/red.rs](https://github.com/mranv/red.rs) -  This repository is dedicated to providing effective and efficient tools for security professionals and penetration testers who want to perform security assessments and intrusion tests.
-- [AmielCyber/ReactRoastDotnet](https://github.com/AmielCyber/ReactRoastDotnet) - Coffee Shop website using React with Vite and React Router, and ASP.NET with Entity Framework and Authentication
 ### 📰 Recent Blog Posts
 
+- [Personalized Zsh Theme for a Professional Workspace](https://mranv.pages.dev/posts/personalized-zsh-theme/)
 - [From NeoVim to LunarVim](https://mranv.pages.dev/posts/from-neovim-to-lunarvim/)
 - [vsFTP on Ubuntu](https://mranv.pages.dev/posts/vsftp-on-ubuntu/)
 - [Windows Control](https://mranv.pages.dev/posts/windows-control/)
 - [Getting Started with Windows Server 2019](https://mranv.pages.dev/posts/getting-started-with-windows-server-2019/)
-- [Elgato on Archlinux](https://mranv.pages.dev/posts/elgato-on-archlinux/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/AnubhavGain>
   - Website   : <https://mranv.pages.dev>
