@@ -48,7 +48,7 @@ To enable SSH commit verification you can either use an existing SSH key or gene
 
 - Open a command terminal and run:
 ```bash
-$ ssh-keygen -t ed25519 -C "your_email@example.com"
+$ ssh-keygen -t ed25519 -C "iamanubhavgain@gmail.com"
 ```
 
 We are only interested in the '.pub' file as that contains the Public Key. Open the '.pub' file and copy the entire contents of the file to your clipboard.
@@ -65,10 +65,10 @@ To configure git commit signing on an individual repository, open a command prom
 ```bash
 ### Navigate to cloned repo root for individual repos ###
 ### Configure name ###
-git config user.name "Your_User_Name"
+git config user.name "mranv"
 
 ### Configure email (same as what was specified in SSH key gen) ###
-git config user.email "your_email@example.com"
+git config user.email "iamanubhavgain@gmail.com"
 
 ### Specify the location of the SSH public key, default path is: /c/Users/you/.ssh/id_algorithm ###
 git config user.signingkey "C:\Users\Monkey/.ssh/id_ed25519.pub"
@@ -85,10 +85,10 @@ To configure git commit signing on all repositories, open a command prompt run t
 ```bash
 ### Global signing on all repos ###
 ### Configure name ###
-git config --global user.name "Your_User_Name"
+git config --global user.name "mranv"
 
 ### Configure email (same as what was specified in SSH key gen) ###
-git config --global user.email "your_email@example.com"
+git config --global user.email "iamanubhavgain@gmail.com"
 
 ### Specify the location of the SSH public key, default path is: /c/Users/you/.ssh/id_algorithm ###
 git config --global user.signingkey "C:\Users\Monkey/.ssh/id_ed25519.pub"
