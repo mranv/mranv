@@ -13,10 +13,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
+- [mranv/invinservicedemon](https://github.com/mranv/invinservicedemon) - This Rust code checks the installation status of osquery, Wazuh, and ClamAV services and generates JSON data representing their status. It&#39;s useful for applications needing to display service status information.
 - [mranv/toolkit](https://github.com/mranv/toolkit) - These tools are designed to assist penetration testers, security researchers, and red teamers in various tasks during engagements or security assessments.
 - [mranv/myconf](https://github.com/mranv/myconf) - unix &amp; like-unix zsh config dot files.
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
-- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
 ### 🌱 My latest projects
 
 - [mranv/myconf](https://github.com/mranv/myconf) - unix &amp; like-unix zsh config dot files.
