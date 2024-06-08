@@ -33,11 +33,11 @@
 - [Append: Readme and license fix for the WinAPI Hooking Library. ](https://github.com/mranv/iathooking-dll/pull/1) on [mranv/iathooking-dll](https://github.com/mranv/iathooking-dll)
 ### ⭐ Recent Stars
 
+- [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
 - [Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters](https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters) - An List of my own Powershell scripts, commands and Blogs for windows Red Teaming. 
 - [pixegami/terminal-profile](https://github.com/pixegami/terminal-profile) - This is my profile for UNIX (MacOS/Linux) terminals.
 - [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
 - [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
-- [Hugal31/yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings for VirusTotal/Yara
 ### 📰 Recent Blog Posts
 
 - [Personalized Zsh Theme for a Professional Workspace](https://mranv.pages.dev/posts/personalized-zsh-theme/)
