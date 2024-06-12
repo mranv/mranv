@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
 - [mranv/invinservicedemon](https://github.com/mranv/invinservicedemon) - This Rust code checks the installation status of osquery, Wazuh, and ClamAV services and generates JSON data representing their status. It&#39;s useful for applications needing to display service status information.
 - [mranv/tls.rs](https://github.com/mranv/tls.rs) - A simple Rust-based TCP client-server application with SSL/TLS encryption and real-time data transmission. The server sends data to the client in real-time, and the client prints the received data. The communication is secured using public/private key authentication with tokio and rustls.
 - [openarmor/openarmor.github.io](https://github.com/openarmor/openarmor.github.io) - Webiste for openarmor
-- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website. It includes assets, new UI elements in the portfolio, and files like index.html with a preloader and sitemap.xml. The repository is licensed under Apache-2.0. The primary languages used are JavaScript, HTML, and CSS, with occasional deployment updates.
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 ### 🌱 My latest projects
 
