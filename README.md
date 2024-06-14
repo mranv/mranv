@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/TextualGameEngine](https://github.com/mranv/TextualGameEngine) - A simple, modular textual game engine built in C&#43;&#43; using the Entity-Component-System (ECS) architecture. This project demonstrates the creation and management of game entities, components, and systems, allowing for the development of text-based games.
 - [mranv/tls.rs](https://github.com/mranv/tls.rs) - A simple Rust-based TCP client-server application with SSL/TLS encryption and real-time data transmission. The server sends data to the client in real-time, and the client prints the received data. The communication is secured using public/private key authentication with tokio and rustls.
-- [mranv/invinservicedemon](https://github.com/mranv/invinservicedemon) - This Rust code checks the installation status of osquery, Wazuh, and ClamAV services and generates JSON data representing their status. It&#39;s useful for applications needing to display service status information.
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
+- [mranv/invinservicedemon](https://github.com/mranv/invinservicedemon) - This Rust code checks the installation status of osquery, Wazuh, and ClamAV services and generates JSON data representing their status. It&#39;s useful for applications needing to display service status information.
 - [openarmor/openarmor.github.io](https://github.com/openarmor/openarmor.github.io) - Webiste for openarmor
+- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 ### 🌱 My latest projects
 
-- [mranv/TextualGameEngine](https://github.com/mranv/TextualGameEngine) - A simple, modular textual game engine built in C&#43;&#43; using the Entity-Component-System (ECS) architecture. This project demonstrates the creation and management of game entities, components, and systems, allowing for the development of text-based games.
 - [mranv/tls.rs](https://github.com/mranv/tls.rs) - A simple Rust-based TCP client-server application with SSL/TLS encryption and real-time data transmission. The server sends data to the client in real-time, and the client prints the received data. The communication is secured using public/private key authentication with tokio and rustls.
 - [mranv/myconf](https://github.com/mranv/myconf) - unix &amp; like-unix zsh config dot files.
 - [mranv/anvos.rs](https://github.com/mranv/anvos.rs) - A minimal operating system written in Rust with uefi boot.
 - [mranv/honeypot.rs](https://github.com/mranv/honeypot.rs) -  CVE-2023-46604 (Apache ActiveMQ RCE Vulnerability) and focused on getting Indicators of Compromise.
+- [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
 ### 🔨 My recent Pull Requests
 
 - [Implement Reflective DLL Loader in Rust](https://github.com/mranv/peloader64/pull/1) on [mranv/peloader64](https://github.com/mranv/peloader64)
@@ -33,11 +33,11 @@
 - [Append: Readme and license fix for the WinAPI Hooking Library. ](https://github.com/mranv/iathooking-dll/pull/1) on [mranv/iathooking-dll](https://github.com/mranv/iathooking-dll)
 ### ⭐ Recent Stars
 
+- [zeenix/postcard-rpc](https://github.com/zeenix/postcard-rpc) - An RPC layer for postcard based protocols
+- [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+- [ocsf/examples](https://github.com/ocsf/examples) - This repo contains example of raw event examples and possible translations to the OCSF schema.
 - [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
 - [Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters](https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters) - An List of my own Powershell scripts, commands and Blogs for windows Red Teaming. 
-- [pixegami/terminal-profile](https://github.com/pixegami/terminal-profile) - This is my profile for UNIX (MacOS/Linux) terminals.
-- [ropnop/kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
-- [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
 ### 📰 Recent Blog Posts
 
 - [Personalized Zsh Theme for a Professional Workspace](https://mranv.pages.dev/posts/personalized-zsh-theme/)
