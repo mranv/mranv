@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
-- [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
-- [mranv/tls.rs](https://github.com/mranv/tls.rs) - A simple Rust-based TCP client-server application with SSL/TLS encryption and real-time data transmission. The server sends data to the client in real-time, and the client prints the received data. The communication is secured using public/private key authentication with tokio and rustls.
+- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
+- [mranv/invinservicedemon](https://github.com/mranv/invinservicedemon) - This Rust code checks the installation status of osquery, Wazuh, and ClamAV services and generates JSON data representing their status. It&#39;s useful for applications needing to display service status information.
+- [mranv/tls.rs](https://github.com/mranv/tls.rs) - A simple Rust-based TCP client-server application with SSL/TLS encryption and real-time data transmission. The server sends data to the client in real-time, and the client prints the received data. The communication is secured using public/private key authentication with tokio and rustls.
 ### 🌱 My latest projects
 
 - [mranv/linux.micrognu](https://github.com/mranv/linux.micrognu) - This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU. It combines the Linux Kernel 6.9.4, BusyBox 1.36.1 for essential Unix utilities, and Nano-X (MicroWindows) for graphical capabilities.
