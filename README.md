@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [techanvconsulting/sassui](https://github.com/techanvconsulting/sassui) - 
 - [techanvconsulting/web.techanv.com](https://github.com/techanvconsulting/web.techanv.com) - website for web developemnt part of techanv consulting.
 - [mranv/TextualGameEngine](https://github.com/mranv/TextualGameEngine) - A simple, modular textual game engine built in C&#43;&#43; using the Entity-Component-System (ECS) architecture. This project demonstrates the creation and management of game entities, components, and systems, allowing for the development of text-based games.
-- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
-- [mranv/adPentest](https://github.com/mranv/adPentest) - Windows Active DIrectory Pentesting documentation.
+- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 ### 🌱 My latest projects
 
 - [mranv/linux.micrognu](https://github.com/mranv/linux.micrognu) - This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU. It combines the Linux Kernel 6.9.4, BusyBox 1.36.1 for essential Unix utilities, and Nano-X (MicroWindows) for graphical capabilities.
