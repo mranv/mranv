@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [techanvconsulting/win95](https://github.com/techanvconsulting/win95) - A windows 95 based hugo website will use for blogging. 
+- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
+- [techanvconsulting/blogs](https://github.com/techanvconsulting/blogs) - A simple blogging website for techanv consulting.
+- [techanvconsulting/projects](https://github.com/techanvconsulting/projects) - open source projects for techanv consulting!
 - [techanvconsulting/sassui](https://github.com/techanvconsulting/sassui) - 
-- [techanvconsulting/web.techanv.com](https://github.com/techanvconsulting/web.techanv.com) - website for web developemnt part of techanv consulting.
-- [mranv/TextualGameEngine](https://github.com/mranv/TextualGameEngine) - A simple, modular textual game engine built in C&#43;&#43; using the Entity-Component-System (ECS) architecture. This project demonstrates the creation and management of game entities, components, and systems, allowing for the development of text-based games.
-- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
-- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
 ### 🌱 My latest projects
 
 - [mranv/linux.micrognu](https://github.com/mranv/linux.micrognu) - This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU. It combines the Linux Kernel 6.9.4, BusyBox 1.36.1 for essential Unix utilities, and Nano-X (MicroWindows) for graphical capabilities.
@@ -33,11 +33,11 @@
 - [Append: Readme and license fix for the WinAPI Hooking Library. ](https://github.com/mranv/iathooking-dll/pull/1) on [mranv/iathooking-dll](https://github.com/mranv/iathooking-dll)
 ### ⭐ Recent Stars
 
+- [hotjuicew/hugo-JuiceBar](https://github.com/hotjuicew/hugo-JuiceBar) - JuiceBar is a concise, elegan blog theme powered by Hugo.
+- [jackyzha0/jackyzha0.github.io](https://github.com/jackyzha0/jackyzha0.github.io) - :sparkles: website v3
 - [zeenix/postcard-rpc](https://github.com/zeenix/postcard-rpc) - An RPC layer for postcard based protocols
 - [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 - [ocsf/examples](https://github.com/ocsf/examples) - This repo contains example of raw event examples and possible translations to the OCSF schema.
-- [themefisher/vex-hugo](https://github.com/themefisher/vex-hugo) - Vex is a product landing page Hugo theme. It is fully responsive and beautifully crafted with Product Showcase, Testimonials, and Email Subscription sections.
-- [Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters](https://github.com/Whitecat18/Powershell-Scripts-for-Hackers-and-Pentesters) - An List of my own Powershell scripts, commands and Blogs for windows Red Teaming. 
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
