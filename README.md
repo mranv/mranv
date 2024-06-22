@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [techanvconsulting/win95](https://github.com/techanvconsulting/win95) - A windows 95 based hugo website will use for blogging. 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
+- [techanvconsulting/win95](https://github.com/techanvconsulting/win95) - A windows 95 based hugo website will use for blogging. 
 - [techanvconsulting/blogs](https://github.com/techanvconsulting/blogs) - A simple blogging website for techanv consulting.
 - [techanvconsulting/projects](https://github.com/techanvconsulting/projects) - open source projects for techanv consulting!
-- [techanvconsulting/sassui](https://github.com/techanvconsulting/sassui) - 
+- [techanvconsulting/sassui](https://github.com/techanvconsulting/sassui) - A sass based ui template for consulting firms.
 ### 🌱 My latest projects
 
 - [mranv/linux.micrognu](https://github.com/mranv/linux.micrognu) - This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU. It combines the Linux Kernel 6.9.4, BusyBox 1.36.1 for essential Unix utilities, and Nano-X (MicroWindows) for graphical capabilities.
