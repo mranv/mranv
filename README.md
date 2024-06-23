@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/win95](https://github.com/techanvconsulting/win95) - A windows 95 based hugo website will use for blogging. 
-- [techanvconsulting/blogs](https://github.com/techanvconsulting/blogs) - A simple blogging website for techanv consulting.
 - [techanvconsulting/projects](https://github.com/techanvconsulting/projects) - open source projects for techanv consulting!
+- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
+- [techanvconsulting/blogs](https://github.com/techanvconsulting/blogs) - A simple blogging website for techanv consulting.
 - [techanvconsulting/sassui](https://github.com/techanvconsulting/sassui) - A sass based ui template for consulting firms.
 ### 🌱 My latest projects
 
