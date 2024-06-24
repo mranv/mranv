@@ -19,11 +19,11 @@
 - [techanvconsulting/sassui](https://github.com/techanvconsulting/sassui) - A sass based ui template for consulting firms.
 ### 🌱 My latest projects
 
+- [mranv/filebasedcommunication.rs](https://github.com/mranv/filebasedcommunication.rs) - File Based Communication using dirs crate. Made with 🦀
 - [mranv/linux.micrognu](https://github.com/mranv/linux.micrognu) - This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU. It combines the Linux Kernel 6.9.4, BusyBox 1.36.1 for essential Unix utilities, and Nano-X (MicroWindows) for graphical capabilities.
 - [mranv/TextualGameEngine](https://github.com/mranv/TextualGameEngine) - A simple, modular textual game engine built in C&#43;&#43; using the Entity-Component-System (ECS) architecture. This project demonstrates the creation and management of game entities, components, and systems, allowing for the development of text-based games.
 - [mranv/tls.rs](https://github.com/mranv/tls.rs) - A simple Rust-based TCP client-server application with SSL/TLS encryption and real-time data transmission. The server sends data to the client in real-time, and the client prints the received data. The communication is secured using public/private key authentication with tokio and rustls.
 - [mranv/myconf](https://github.com/mranv/myconf) - unix &amp; like-unix zsh config dot files.
-- [mranv/anvos.rs](https://github.com/mranv/anvos.rs) - A minimal operating system written in Rust with uefi boot.
 ### 🔨 My recent Pull Requests
 
 - [Implement Reflective DLL Loader in Rust](https://github.com/mranv/peloader64/pull/1) on [mranv/peloader64](https://github.com/mranv/peloader64)
