@@ -13,10 +13,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
-- [mranv/filebasedcommunication.rs](https://github.com/mranv/filebasedcommunication.rs) - File Based Communication using dirs crate. Made with 🦀
 - [techanvconsulting/projects](https://github.com/techanvconsulting/projects) - open source projects for techanv consulting!
 - [techanvconsulting/win95](https://github.com/techanvconsulting/win95) - A windows 95 based hugo website will use for blogging. 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
+- [techanvconsulting/blogs](https://github.com/techanvconsulting/blogs) - A simple blogging website for techanv consulting.
 ### 🌱 My latest projects
 
 - [mranv/astroBlog](https://github.com/mranv/astroBlog) - 
