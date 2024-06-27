@@ -19,11 +19,11 @@
 - [techanvconsulting/blogs](https://github.com/techanvconsulting/blogs) - A simple blogging website for techanv consulting.
 ### 🌱 My latest projects
 
+- [mranv/website](https://github.com/mranv/website) - 
 - [mranv/Scalable_Infrastructure_System](https://github.com/mranv/Scalable_Infrastructure_System) - Yet another groundbreaking solution to problems you didn&#39;t know you had.
 - [mranv/Quantum_Data_Protocol](https://github.com/mranv/Quantum_Data_Protocol) - For when you absolutely, positively need to overcomplicate everything.
 - [mranv/Integrated_Optimization_Framework](https://github.com/mranv/Integrated_Optimization_Framework) - Yet another groundbreaking solution to problems you didn&#39;t know you had.
 - [mranv/Distributed_Automation_Protocol](https://github.com/mranv/Distributed_Automation_Protocol) - Because your current stack just isn&#39;t complicated enough.
-- [mranv/Blockchain_Automation_System](https://github.com/mranv/Blockchain_Automation_System) - Solving tomorrow&#39;s problems with yesterday&#39;s technology.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
