@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/cseWebsite](https://github.com/mranv/cseWebsite) - a website for demonstrating cyber security expertise. 
 - [mranv/dsoWebsite](https://github.com/mranv/dsoWebsite) - a website to demonstrate my devsecops
 - [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
 - [techanvconsulting/win95](https://github.com/techanvconsulting/win95) - A windows 95 based hugo website will use for blogging. 
 - [techanvconsulting/projects](https://github.com/techanvconsulting/projects) - open source projects for techanv consulting!
+- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 ### 🌱 My latest projects
 
+- [mranv/ghauth](https://github.com/mranv/ghauth) - 
 - [mranv/cseWebsite](https://github.com/mranv/cseWebsite) - a website for demonstrating cyber security expertise. 
 - [mranv/dsoWebsite](https://github.com/mranv/dsoWebsite) - a website to demonstrate my devsecops
 - [mranv/Scalable_Infrastructure_System](https://github.com/mranv/Scalable_Infrastructure_System) - Yet another groundbreaking solution to problems you didn&#39;t know you had.
 - [mranv/Quantum_Data_Protocol](https://github.com/mranv/Quantum_Data_Protocol) - For when you absolutely, positively need to overcomplicate everything.
-- [mranv/Integrated_Optimization_Framework](https://github.com/mranv/Integrated_Optimization_Framework) - Yet another groundbreaking solution to problems you didn&#39;t know you had.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
