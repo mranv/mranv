@@ -13,8 +13,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
-- [mranv/dsoWebsite](https://github.com/mranv/dsoWebsite) - a website to demonstrate my devsecops
 - [mranv/cseWebsite](https://github.com/mranv/cseWebsite) - a website for demonstrating cyber security expertise. 
+- [mranv/dsoWebsite](https://github.com/mranv/dsoWebsite) - a website to demonstrate my devsecops
 - [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
 - [techanvconsulting/projects](https://github.com/techanvconsulting/projects) - open source projects for techanv consulting!
 ### 🌱 My latest projects
