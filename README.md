@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
+- [mranv/infopercept](https://github.com/mranv/infopercept) - A collection of scripts used at infopercept X wazuh 4.7.5
+- [mranv/ghauth](https://github.com/mranv/ghauth) - 
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 - [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
-- [mranv/cseWebsite](https://github.com/mranv/cseWebsite) - a website for demonstrating cyber security expertise. 
-- [mranv/dsoWebsite](https://github.com/mranv/dsoWebsite) - a website to demonstrate my devsecops
-- [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
 ### 🌱 My latest projects
 
+- [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
+- [mranv/scylla](https://github.com/mranv/scylla) -  ScyllaDB session setup and basic CRUD operations
+- [mranv/infopercept](https://github.com/mranv/infopercept) - A collection of scripts used at infopercept X wazuh 4.7.5
 - [mranv/ghauth](https://github.com/mranv/ghauth) - 
 - [mranv/cseWebsite](https://github.com/mranv/cseWebsite) - a website for demonstrating cyber security expertise. 
-- [mranv/dsoWebsite](https://github.com/mranv/dsoWebsite) - a website to demonstrate my devsecops
-- [mranv/Scalable_Infrastructure_System](https://github.com/mranv/Scalable_Infrastructure_System) - Yet another groundbreaking solution to problems you didn&#39;t know you had.
-- [mranv/Quantum_Data_Protocol](https://github.com/mranv/Quantum_Data_Protocol) - For when you absolutely, positively need to overcomplicate everything.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
