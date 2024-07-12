@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
+- [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
+- [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
+- [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
 - [mranv/infopercept](https://github.com/mranv/infopercept) - A collection of scripts used at infopercept X wazuh 4.7.5
-- [mranv/ghauth](https://github.com/mranv/ghauth) - 
-- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
-- [mranv/solitude](https://github.com/mranv/solitude) - Solitude offers shell scripts for managing isolation settings on macOS and Linux. Enhance firewall control and system security effortlessly.
+- [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
 ### 🌱 My latest projects
 
+- [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
+- [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
+- [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
 - [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
 - [mranv/scylla](https://github.com/mranv/scylla) -  ScyllaDB session setup and basic CRUD operations
-- [mranv/infopercept](https://github.com/mranv/infopercept) - A collection of scripts used at infopercept X wazuh 4.7.5
-- [mranv/ghauth](https://github.com/mranv/ghauth) - 
-- [mranv/cseWebsite](https://github.com/mranv/cseWebsite) - a website for demonstrating cyber security expertise. 
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [AgileDevArt/AgileDevArt.github.io](https://github.com/AgileDevArt/AgileDevArt.github.io) - 
 - [arch3rPro/Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit 一个开箱即用的windows渗透测试环境
 - [hotjuicew/hugo-JuiceBar](https://github.com/hotjuicew/hugo-JuiceBar) - JuiceBar is a concise, elegan blog theme powered by Hugo.
 - [jackyzha0/jackyzha0.github.io](https://github.com/jackyzha0/jackyzha0.github.io) - :sparkles: website v3
-- [zeenix/postcard-rpc](https://github.com/zeenix/postcard-rpc) - An RPC layer for postcard based protocols
-- [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
