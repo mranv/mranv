@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/multi_binary](https://github.com/mranv/multi_binary) - This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
-- [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
-- [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
-- [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
-- [mranv/ghauth](https://github.com/mranv/ghauth) - 
-### 🌱 My latest projects
-
-- [mranv/multi_binary](https://github.com/mranv/multi_binary) - This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
 - [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
 - [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
 - [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
 - [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
+- [mranv/infopercept](https://github.com/mranv/infopercept) - A collection of scripts used at infopercept X wazuh 4.7.5
+### 🌱 My latest projects
+
+- [mranv/execRemoteSigned](https://github.com/mranv/execRemoteSigned) - 
+- [mranv/letmecook](https://github.com/mranv/letmecook) - 
+- [mranv/multi_binary](https://github.com/mranv/multi_binary) - This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
+- [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
+- [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
