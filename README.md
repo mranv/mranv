@@ -13,10 +13,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [openarmor/.github](https://github.com/openarmor/.github) - 
-- [mranv/execRemoteSigned](https://github.com/mranv/execRemoteSigned) - A Rust program to set the PowerShell execution policy to RemoteSigned, enabling the execution of local unsigned and remote signed scripts on Windows. Requires administrative privileges.
 - [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
-- [mranv/multi_binary](https://github.com/mranv/multi_binary) - This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
 - [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
+- [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
+- [mranv/sqlite_to_scylla](https://github.com/mranv/sqlite_to_scylla) - 
 ### 🌱 My latest projects
 
 - [mranv/wM](https://github.com/mranv/wM) - Configs for different desktop manager cause i forgot the key bindings!
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [vikman90/tcp-server](https://github.com/vikman90/tcp-server) - TCP Server Implementations: Procedural C vs. Coroutine-based C&#43;&#43;
 - [julianollivieira/b2executable](https://github.com/julianollivieira/b2executable) - A program to convert .bat files to .exe files
 - [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
 - [0xb11a1/sliver_extension_uac_bypass_cmstp](https://github.com/0xb11a1/sliver_extension_uac_bypass_cmstp) - Sliver extension to bypass UAC via cmstp written in rust
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [AgileDevArt/AgileDevArt.github.io](https://github.com/AgileDevArt/AgileDevArt.github.io) - 
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
