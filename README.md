@@ -15,15 +15,15 @@
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [openarmor/.github](https://github.com/openarmor/.github) - 
 - [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
-- [mranv/multi_binary](https://github.com/mranv/multi_binary) - This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
 - [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
+- [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
 ### 🌱 My latest projects
 
+- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 - [mranv/mlSalaryPrediction](https://github.com/mranv/mlSalaryPrediction) - @srushtee13
 - [mranv/wM](https://github.com/mranv/wM) - Configs for different desktop manager cause i forgot the key bindings!
 - [mranv/execRemoteSigned](https://github.com/mranv/execRemoteSigned) - A Rust program to set the PowerShell execution policy to RemoteSigned, enabling the execution of local unsigned and remote signed scripts on Windows. Requires administrative privileges.
 - [mranv/letmecook](https://github.com/mranv/letmecook) - 
-- [mranv/multi_binary](https://github.com/mranv/multi_binary) - This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
