@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
+- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
+- [mranv/mlSalaryPrediction](https://github.com/mranv/mlSalaryPrediction) - @srushtee13
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [openarmor/.github](https://github.com/openarmor/.github) - 
-- [mranv/wazuh-dev](https://github.com/mranv/wazuh-dev) - Tools and scripts for setting up a development environment for Wazuh, including dependencies, custom GCC installation, and initial Wazuh manager setup.
-- [mranv/wazuh-agent-archlinux](https://github.com/mranv/wazuh-agent-archlinux) - This repository facilitates the installation of the Wazuh agent on Arch Linux systems. It comprehensively provides the requisite files and instructions to efficiently build and deploy the agent, thereby enhancing system security through advanced threat management capabilities.
-- [mranv/abacus](https://github.com/mranv/abacus) - wazuh agent source code for v4.8.0
 ### 🌱 My latest projects
 
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
