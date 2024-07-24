@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/toolkit](https://github.com/mranv/toolkit) - These tools are designed to assist penetration testers, security researchers, and red teamers in various tasks during engagements or security assessments.
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 - [techanvconsulting/search](https://github.com/techanvconsulting/search) - 
-- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
-- [mranv/mlSalaryPrediction](https://github.com/mranv/mlSalaryPrediction) - @srushtee13
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
+- [openarmor/.github](https://github.com/openarmor/.github) - 
 ### 🌱 My latest projects
 
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [NSG650/NoMoreBugCheck](https://github.com/NSG650/NoMoreBugCheck) - Prevent Windows from BSODing!
 - [vikman90/tcp-server](https://github.com/vikman90/tcp-server) - TCP Server Implementations: Procedural C vs. Coroutine-based C&#43;&#43;
 - [julianollivieira/b2executable](https://github.com/julianollivieira/b2executable) - A program to convert .bat files to .exe files
 - [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
 - [0xb11a1/sliver_extension_uac_bypass_cmstp](https://github.com/0xb11a1/sliver_extension_uac_bypass_cmstp) - Sliver extension to bypass UAC via cmstp written in rust
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
