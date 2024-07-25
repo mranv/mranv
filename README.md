@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/toolkit](https://github.com/mranv/toolkit) - These tools are designed to assist penetration testers, security researchers, and red teamers in various tasks during engagements or security assessments.
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
-- [techanvconsulting/search](https://github.com/techanvconsulting/search) - 
-- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
-- [openarmor/.github](https://github.com/openarmor/.github) - 
+- [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
+- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
+- [openarmor/favicons](https://github.com/openarmor/favicons) - 
+- [mranv/toolkit](https://github.com/mranv/toolkit) - These tools are designed to assist penetration testers, security researchers, and red teamers in various tasks during engagements or security assessments.
 ### 🌱 My latest projects
 
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
