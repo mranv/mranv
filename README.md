@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
-- [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
 - [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
-- [openarmor/favicons](https://github.com/openarmor/favicons) - 
+- [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
 - [mranv/toolkit](https://github.com/mranv/toolkit) - These tools are designed to assist penetration testers, security researchers, and red teamers in various tasks during engagements or security assessments.
 ### 🌱 My latest projects
 
+- [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 - [mranv/mlSalaryPrediction](https://github.com/mranv/mlSalaryPrediction) - @srushtee13
 - [mranv/wM](https://github.com/mranv/wM) - Configs for different desktop manager cause i forgot the key bindings!
 - [mranv/execRemoteSigned](https://github.com/mranv/execRemoteSigned) - A Rust program to set the PowerShell execution policy to RemoteSigned, enabling the execution of local unsigned and remote signed scripts on Windows. Requires administrative privileges.
-- [mranv/letmecook](https://github.com/mranv/letmecook) - 
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
-- [NSG650/NoMoreBugCheck](https://github.com/NSG650/NoMoreBugCheck) - Prevent Windows from BSODing!
-- [vikman90/tcp-server](https://github.com/vikman90/tcp-server) - TCP Server Implementations: Procedural C vs. Coroutine-based C&#43;&#43;
-- [julianollivieira/b2executable](https://github.com/julianollivieira/b2executable) - A program to convert .bat files to .exe files
-- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
-- [0xb11a1/sliver_extension_uac_bypass_cmstp](https://github.com/0xb11a1/sliver_extension_uac_bypass_cmstp) - Sliver extension to bypass UAC via cmstp written in rust
+- [deliveroo/os-query](https://github.com/deliveroo/os-query) - An idiomatic Go query builder for ElasticSearch
+- [Hestat/ossec-sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon
+- [bentleygd/OSSECUtils](https://github.com/bentleygd/OSSECUtils) - Scripts to enhance and support OSSEC
+- [dirkjanm/adconnectdump](https://github.com/dirkjanm/adconnectdump) - Dump Azure AD Connect credentials for Azure AD and Active Directory
+- [tmenochet/PowerExec](https://github.com/tmenochet/PowerExec) - Offensive tool for fileless lateral movement on Windows networks
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
