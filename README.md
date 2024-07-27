@@ -15,15 +15,15 @@
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
-- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
+- [openarmor/favicons](https://github.com/openarmor/favicons) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
 ### 🌱 My latest projects
 
+- [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 - [mranv/mlSalaryPrediction](https://github.com/mranv/mlSalaryPrediction) - @srushtee13
 - [mranv/wM](https://github.com/mranv/wM) - Configs for different desktop manager cause i forgot the key bindings!
-- [mranv/execRemoteSigned](https://github.com/mranv/execRemoteSigned) - A Rust program to set the PowerShell execution policy to RemoteSigned, enabling the execution of local unsigned and remote signed scripts on Windows. Requires administrative privileges.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
