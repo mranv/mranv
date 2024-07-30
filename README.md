@@ -15,8 +15,8 @@
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
-- [openarmor/favicons](https://github.com/openarmor/favicons) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
+- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
 ### 🌱 My latest projects
 
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [manuarora700/sidefolio](https://github.com/manuarora700/sidefolio) - 🧑‍💻 Source code for Sidefolio
 - [TatevKaren/BabyGPT-Build_GPT_From_Scratch](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) - BabyGPT: Build Your Own GPT Large Language Model from Scratch Pre-Training Generative Transformer Models: Building GPT from Scratch with a Step-by-Step Guide to Generative AI in PyTorch and Python
 - [deliveroo/os-query](https://github.com/deliveroo/os-query) - An idiomatic Go query builder for ElasticSearch
 - [Hestat/ossec-sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon
 - [bentleygd/OSSECUtils](https://github.com/bentleygd/OSSECUtils) - Scripts to enhance and support OSSEC
-- [dirkjanm/adconnectdump](https://github.com/dirkjanm/adconnectdump) - Dump Azure AD Connect credentials for Azure AD and Active Directory
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
