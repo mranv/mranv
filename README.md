@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 - [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
-- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
 ### 🌱 My latest projects
 
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
