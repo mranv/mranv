@@ -16,14 +16,14 @@
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
-- [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
+- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
 ### 🌱 My latest projects
 
+- [mranv/agentARChecker](https://github.com/mranv/agentARChecker) - A Rust-based tool for checking and verifying AR (Active Response) agents from server side. 
+- [mranv/wazuh_api_config_grabber](https://github.com/mranv/wazuh_api_config_grabber) - A Rust utility for retrieving Wazuh server to get agent config using API configurations.
+- [mranv/ar_forward](https://github.com/mranv/ar_forward) - A Rust application for forwarding AR (Active Response) data.
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
-- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
-- [mranv/mlSalaryPrediction](https://github.com/mranv/mlSalaryPrediction) - @srushtee13
-- [mranv/wM](https://github.com/mranv/wM) - Configs for different desktop manager cause i forgot the key bindings!
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
