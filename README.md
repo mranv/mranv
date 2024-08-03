@@ -14,16 +14,16 @@
 
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
+- [openarmor/openarmor-ui](https://github.com/openarmor/openarmor-ui) - OpenArmor-GUI: Web Interface for Enhanced Security Management!
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
-- [openarmor/openarmor-hids](https://github.com/openarmor/openarmor-hids) - Modern, enhanced fork of OSSEC. Advanced host-based intrusion detection for today&#39;s security challenges.
+- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 ### 🌱 My latest projects
 
+- [mranv/wazuh-opensearch-integration-clean](https://github.com/mranv/wazuh-opensearch-integration-clean) - 
 - [mranv/agentARChecker](https://github.com/mranv/agentARChecker) - A Rust-based tool for checking and verifying AR (Active Response) agents from server side. 
 - [mranv/wazuh_api_config_grabber](https://github.com/mranv/wazuh_api_config_grabber) - A Rust utility for retrieving Wazuh server to get agent config using API configurations.
 - [mranv/ar_forward](https://github.com/mranv/ar_forward) - A Rust application for forwarding AR (Active Response) data.
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
-- [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
