@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 - [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
-- [openarmor/documentation](https://github.com/openarmor/documentation) - OpenArmor HIDS! usecase.
+- [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 ### 🌱 My latest projects
 
+- [mranv/schema](https://github.com/mranv/schema) - schema for seo!
 - [mranv/wazuh-opensearch-integration-clean](https://github.com/mranv/wazuh-opensearch-integration-clean) - 
 - [mranv/agentARChecker](https://github.com/mranv/agentARChecker) - A Rust-based tool for checking and verifying AR (Active Response) agents from server side. 
 - [mranv/wazuh_api_config_grabber](https://github.com/mranv/wazuh_api_config_grabber) - A Rust utility for retrieving Wazuh server to get agent config using API configurations.
 - [mranv/ar_forward](https://github.com/mranv/ar_forward) - A Rust application for forwarding AR (Active Response) data.
-- [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [hevnsnt/Awesome_Incident_Response](https://github.com/hevnsnt/Awesome_Incident_Response) - Awesome Incident Response
 - [manuarora700/sidefolio](https://github.com/manuarora700/sidefolio) - 🧑‍💻 Source code for Sidefolio
 - [TatevKaren/BabyGPT-Build_GPT_From_Scratch](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) - BabyGPT: Build Your Own GPT Large Language Model from Scratch Pre-Training Generative Transformer Models: Building GPT from Scratch with a Step-by-Step Guide to Generative AI in PyTorch and Python
 - [deliveroo/os-query](https://github.com/deliveroo/os-query) - An idiomatic Go query builder for ElasticSearch
-- [Hestat/ossec-sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
