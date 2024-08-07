@@ -15,7 +15,7 @@
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
+- [openarmor/openarmor-ui](https://github.com/openarmor/openarmor-ui) - OpenArmor-GUI: Web Interface for Enhanced Security Management!
 - [mranv/wazuhRND](https://github.com/mranv/wazuhRND) - Research &amp; Development of @wazuh for version v4.7.5
 ### 🌱 My latest projects
 
