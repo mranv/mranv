@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
+- [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - 
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
-- [mranv/schema](https://github.com/mranv/schema) - schema for seo!
 - [mranv/wazuhlogger](https://github.com/mranv/wazuhlogger) - using inbuilt logger in the wazuh for debugging! v4.7.5
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [mranv/pamsshmanager](https://github.com/mranv/pamsshmanager) - POC : on automated SSH user management using PAM
 ### 🌱 My latest projects
 
-- [mranv/fluent.bit](https://github.com/mranv/fluent.bit) - 
+- [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
+- [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - 
+- [mranv/filebeat2tcp](https://github.com/mranv/filebeat2tcp) - A damn poc with filebeat with ssl configuration!
+- [mranv/fluent.bit](https://github.com/mranv/fluent.bit) - A poc on fluent bit for client - server communication!
 - [mranv/schema](https://github.com/mranv/schema) - schema for seo!
-- [mranv/wazuh-opensearch-integration-clean](https://github.com/mranv/wazuh-opensearch-integration-clean) - 
-- [mranv/agentARChecker](https://github.com/mranv/agentARChecker) - A Rust-based tool for checking and verifying AR (Active Response) agents from server side. 
-- [mranv/wazuh_api_config_grabber](https://github.com/mranv/wazuh_api_config_grabber) - A Rust utility for retrieving Wazuh server to get agent config using API configurations.
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
