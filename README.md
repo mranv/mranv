@@ -12,16 +12,16 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - 
-- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - 
+- [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
 - [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
 - [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - migrating fliebeat to fluent-bit in wazuh!
+- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - A ready-to-use configuration for integrating invinsense with OpenSearch via Fluent Bit. This setup automates the collection of Wazuh alerts and data, sends it to OpenSearch, and handles index rotation and secure credential management.
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 ### 🌱 My latest projects
 
-- [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - 
-- [mranv/invinsense-osd](https://github.com/mranv/invinsense-osd) - 
-- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - 
+- [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
+- [mranv/invinsense-osd](https://github.com/mranv/invinsense-osd) - This repository provides Docker-based development environments for Wazuh, Kibana, and OpenSearch. It includes setups for monitoring, development, and testing, ensuring a consistent experience across platforms.
+- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - A ready-to-use configuration for integrating invinsense with OpenSearch via Fluent Bit. This setup automates the collection of Wazuh alerts and data, sends it to OpenSearch, and handles index rotation and secure credential management.
 - [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
 - [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - migrating fliebeat to fluent-bit in wazuh!
 ### 🔨 My recent Pull Requests
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
-- [Ghvstcode/Rust-Tcp](https://github.com/Ghvstcode/Rust-Tcp) - Implementing TCP In Rust
-- [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
-- [hevnsnt/Awesome_Incident_Response](https://github.com/hevnsnt/Awesome_Incident_Response) - Awesome Incident Response
-- [manuarora700/sidefolio](https://github.com/manuarora700/sidefolio) - 🧑‍💻 Source code for Sidefolio
-- [TatevKaren/BabyGPT-Build_GPT_From_Scratch](https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch) - BabyGPT: Build Your Own GPT Large Language Model from Scratch Pre-Training Generative Transformer Models: Building GPT from Scratch with a Step-by-Step Guide to Generative AI in PyTorch and Python
+- [MSxDOS/rust-embed-resource](https://github.com/MSxDOS/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable
+- [MSxDOS/fxhash](https://github.com/MSxDOS/fxhash) - A fast, non-secure, hashing algorithm derived from an internal hasher in FireFox.
+- [MSxDOS/winapi-rs](https://github.com/MSxDOS/winapi-rs) - Rust bindings to Windows API
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [wazuh/wazuh-http-request](https://github.com/wazuh/wazuh-http-request) - Wazuh HTTP request library
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
