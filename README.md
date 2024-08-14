@@ -13,9 +13,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
+- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - A ready-to-use configuration for integrating invinsense with OpenSearch via Fluent Bit. This setup automates the collection of Wazuh alerts and data, sends it to OpenSearch, and handles index rotation and secure credential management.
 - [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
 - [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - migrating fliebeat to fluent-bit in wazuh!
-- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - A ready-to-use configuration for integrating invinsense with OpenSearch via Fluent Bit. This setup automates the collection of Wazuh alerts and data, sends it to OpenSearch, and handles index rotation and secure credential management.
 - [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 ### 🌱 My latest projects
 
