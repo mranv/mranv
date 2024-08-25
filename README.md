@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 - [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
-- [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
 ### 🌱 My latest projects
 
+- [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 - [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
 - [mranv/invinsense-osd](https://github.com/mranv/invinsense-osd) - This repository provides Docker-based development environments for Wazuh, Kibana, and OpenSearch. It includes setups for monitoring, development, and testing, ensuring a consistent experience across platforms.
 - [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - A ready-to-use configuration for integrating invinsense with OpenSearch via Fluent Bit. This setup automates the collection of Wazuh alerts and data, sends it to OpenSearch, and handles index rotation and secure credential management.
-- [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
