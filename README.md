@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [logeagle/py](https://github.com/logeagle/py) - 
+- [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - 
-- [logeagle/py](https://github.com/logeagle/py) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
-- [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
 ### 🌱 My latest projects
 
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
