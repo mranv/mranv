@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [openarmor/documentation](https://github.com/openarmor/documentation) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
-- [openarmor/documentation](https://github.com/openarmor/documentation) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 ### 🌱 My latest projects
 
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 - [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
-- [mranv/invinsense-osd](https://github.com/mranv/invinsense-osd) - This repository provides Docker-based development environments for Wazuh, Kibana, and OpenSearch. It includes setups for monitoring, development, and testing, ensuring a consistent experience across platforms.
-- [mranv/invinsense-fluentbit](https://github.com/mranv/invinsense-fluentbit) - A ready-to-use configuration for integrating invinsense with OpenSearch via Fluent Bit. This setup automates the collection of Wazuh alerts and data, sends it to OpenSearch, and handles index rotation and secure credential management.
+- [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
+- [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - migrating fliebeat to fluent-bit in wazuh!
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [phayes/fimble](https://github.com/phayes/fimble) - Simple command-line File Integrity Monitoring
 - [alhazred/illumos-fim](https://github.com/alhazred/illumos-fim) - IFIM is an illumos fork of Achiefs File Integrity Monitoring tool that performs file system analysis, file integrity checking on illumos-based distributions.
 - [bedimcode/responsive-portfolio-website-rian](https://github.com/bedimcode/responsive-portfolio-website-rian) - Responsive Personal Portfolio Website Using HTML CSS &amp; JavaScript
 - [adrianhajdin/portfolio](https://github.com/adrianhajdin/portfolio) - Modern &amp; Minimal JS Mastery Portfolio
-- [MSxDOS/rust-embed-resource](https://github.com/MSxDOS/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
