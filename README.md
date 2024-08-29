@@ -13,8 +13,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - 
-- [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
+- [logeagle/py](https://github.com/logeagle/py) - 
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 ### 🌱 My latest projects
