@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [openarmor/documentation](https://github.com/openarmor/documentation) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
+- [openarmor/documentation](https://github.com/openarmor/documentation) - 
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 ### 🌱 My latest projects
 
+- [mranv/winapi.rs](https://github.com/mranv/winapi.rs) - Hello, Windows!
 - [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 - [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 - [mranv/gainfisheries.com](https://github.com/mranv/gainfisheries.com) - Pre Added : website for gain fisheries
 - [mranv/ocsf-parser](https://github.com/mranv/ocsf-parser) - OCSF Parser implemented in Rust
-- [mranv/wazuh-fluentbit](https://github.com/mranv/wazuh-fluentbit) - migrating fliebeat to fluent-bit in wazuh!
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
