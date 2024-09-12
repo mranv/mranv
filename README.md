@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 - [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - 
-- [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
 ### 🌱 My latest projects
 
 - [mranv/osd-security-plugin](https://github.com/mranv/osd-security-plugin) - 
