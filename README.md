@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [iterative/dvc-s3-repo](https://github.com/iterative/dvc-s3-repo) - Maintain deb and rpm repositories on s3
+- [tarantool/mkrepo](https://github.com/tarantool/mkrepo) - Maintain DEB and RPM repositories on S3
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [phayes/fimble](https://github.com/phayes/fimble) - Simple command-line File Integrity Monitoring
 - [alhazred/illumos-fim](https://github.com/alhazred/illumos-fim) - IFIM is an illumos fork of Achiefs File Integrity Monitoring tool that performs file system analysis, file integrity checking on illumos-based distributions.
-- [bedimcode/responsive-portfolio-website-rian](https://github.com/bedimcode/responsive-portfolio-website-rian) - Responsive Personal Portfolio Website Using HTML CSS &amp; JavaScript
-- [adrianhajdin/portfolio](https://github.com/adrianhajdin/portfolio) - Modern &amp; Minimal JS Mastery Portfolio
 ### 📰 Recent Blog Posts
 
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
