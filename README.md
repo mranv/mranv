@@ -14,16 +14,16 @@
 
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
+- [logeagle/py](https://github.com/logeagle/py) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - 
 ### 🌱 My latest projects
 
+- [mranv/ndagentwin.go](https://github.com/mranv/ndagentwin.go) - 
+- [mranv/ndagentX-rs](https://github.com/mranv/ndagentX-rs) - 
 - [mranv/osd-security-plugin](https://github.com/mranv/osd-security-plugin) - 
 - [mranv/osdls](https://github.com/mranv/osdls) - wazuh &#43; logstash &#43; opensearch &#43; opensearch Dashboards = IKYK
 - [mranv/winapi.rs](https://github.com/mranv/winapi.rs) - Hello, Windows!
-- [mranv/wazuhOccurrences](https://github.com/mranv/wazuhOccurrences) - 
-- [mranv/harshie](https://github.com/mranv/harshie) - A portfolio website for Harsh Gulrajani based on Accernity Ui!
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
