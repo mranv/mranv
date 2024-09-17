@@ -14,8 +14,8 @@
 
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
+- [logeagle/py](https://github.com/logeagle/py) - 
 - [openarmor/documentation](https://github.com/openarmor/documentation) - 
 ### 🌱 My latest projects
 
