@@ -12,14 +12,14 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
-- [openarmor/documentation](https://github.com/openarmor/documentation) - 
+- [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 ### 🌱 My latest projects
 
-- [mranv/ndagentwin.go](https://github.com/mranv/ndagentwin.go) - 
+- [mranv/anime-blog](https://github.com/mranv/anime-blog) - 
 - [mranv/ndagentX-rs](https://github.com/mranv/ndagentX-rs) - 
 - [mranv/osd-security-plugin](https://github.com/mranv/osd-security-plugin) - 
 - [mranv/osdls](https://github.com/mranv/osdls) - wazuh &#43; logstash &#43; opensearch &#43; opensearch Dashboards = IKYK
@@ -33,18 +33,18 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [thevrus/vrus.vercel.app](https://github.com/thevrus/vrus.vercel.app) - Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.
+- [Numonu/ilovejs](https://github.com/Numonu/ilovejs) - ILoveJS es una guía práctica diseñada para aprender JavaScript.
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
 - [iterative/dvc-s3-repo](https://github.com/iterative/dvc-s3-repo) - Maintain deb and rpm repositories on s3
 - [tarantool/mkrepo](https://github.com/tarantool/mkrepo) - Maintain DEB and RPM repositories on S3
-- [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
-- [phayes/fimble](https://github.com/phayes/fimble) - Simple command-line File Integrity Monitoring
-- [alhazred/illumos-fim](https://github.com/alhazred/illumos-fim) - IFIM is an illumos fork of Achiefs File Integrity Monitoring tool that performs file system analysis, file integrity checking on illumos-based distributions.
 ### 📰 Recent Blog Posts
 
+- [Dockerizing a Node.js - Application with Multi-Stage Builds](https://mranv.pages.dev/posts/dockerizing-nodejs-app-multistage-builds/)
+- [Dockerizing a Simple Web Application - A Step-by-Step Guide](https://mranv.pages.dev/posts/dockerizing-web-application-guide/)
+- [Docker Architecture and Workflow - A Beginner&#39;s Guide](https://mranv.pages.dev/posts/docker-architecture-workflow-guide/)
 - [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
 - [Monitoring and Managing System Services with invinservicedemon](https://mranv.pages.dev/posts/invinservicedemon-system-service-management/)
-- [Personalized Zsh Theme for a Professional Workspace](https://mranv.pages.dev/posts/personalized-zsh-theme/)
-- [From NeoVim to LunarVim](https://mranv.pages.dev/posts/from-neovim-to-lunarvim/)
-- [vsFTP on Ubuntu](https://mranv.pages.dev/posts/vsftp-on-ubuntu/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/AnubhavGain>
   - Website   : <https://mranv.pages.dev>
