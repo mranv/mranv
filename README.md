@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 ### 🌱 My latest projects
 
@@ -35,7 +35,7 @@
 
 - [thevrus/vrus.vercel.app](https://github.com/thevrus/vrus.vercel.app) - Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [Numonu/ilovejs](https://github.com/Numonu/ilovejs) - ILoveJS es una guía práctica diseñada para aprender JavaScript.
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro. 
 - [iterative/dvc-s3-repo](https://github.com/iterative/dvc-s3-repo) - Maintain deb and rpm repositories on s3
 - [tarantool/mkrepo](https://github.com/tarantool/mkrepo) - Maintain DEB and RPM repositories on S3
 ### 📰 Recent Blog Posts
