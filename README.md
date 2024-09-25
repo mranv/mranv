@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [relekang/coredns-blocklist](https://github.com/relekang/coredns-blocklist) - This is a coredns plugin to return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
 - [thevrus/vrus.vercel.app](https://github.com/thevrus/vrus.vercel.app) - Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [Numonu/ilovejs](https://github.com/Numonu/ilovejs) - ILoveJS es una guía práctica diseñada para aprender JavaScript.
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro. 
 - [iterative/dvc-s3-repo](https://github.com/iterative/dvc-s3-repo) - Maintain deb and rpm repositories on s3
-- [tarantool/mkrepo](https://github.com/tarantool/mkrepo) - Maintain DEB and RPM repositories on S3
 ### 📰 Recent Blog Posts
 
 - [Dockerizing a Node.js - Application with Multi-Stage Builds](https://mranv.pages.dev/posts/dockerizing-nodejs-app-multistage-builds/)
