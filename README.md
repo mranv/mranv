@@ -12,11 +12,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
-- [logeagle/py](https://github.com/logeagle/py) - 
 ### 🌱 My latest projects
 
 - [mranv/anime-blog](https://github.com/mranv/anime-blog) - 
@@ -40,11 +40,11 @@
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro. 
 ### 📰 Recent Blog Posts
 
-- [Dockerizing a Node.js - Application with Multi-Stage Builds](https://mranv.pages.dev/posts/dockerizing-nodejs-app-multistage-builds/)
-- [Dockerizing a Simple Web Application - A Step-by-Step Guide](https://mranv.pages.dev/posts/dockerizing-web-application-guide/)
-- [Docker Architecture and Workflow - A Beginner&#39;s Guide](https://mranv.pages.dev/posts/docker-architecture-workflow-guide/)
-- [This is a simple, lightweight GUI-based Linux distribution designed to run on QEMU.](https://mranv.pages.dev/posts/simple-gui-linux-os/)
-- [Monitoring and Managing System Services with invinservicedemon](https://mranv.pages.dev/posts/invinservicedemon-system-service-management/)
+- [Mastering Kubernetes Autoscaling - A Hands-On Guide to HPA](https://mranv.pages.dev/posts/kubernetes-autoscaling-hpa-guide/)
+- [Exploring Resource Requests and Limits in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-resource-requests-limits-guide/)
+- [Mastering Node Affinity in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-node-affinity-practical-guide/)
+- [Mastering Taints and Tolerations in Kubernetes - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-taints-tolerations-hands-on/)
+- [Hands-On with Kubernetes - Manual Scheduling, Static Pods, and Label Selectors](https://mranv.pages.dev/posts/kubernetes-manual-scheduling-static-pods-labels/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/AnubhavGain>
   - Website   : <https://mranv.pages.dev>
