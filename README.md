@@ -33,18 +33,18 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [ErdajtSopjani/macdotfiles](https://github.com/ErdajtSopjani/macdotfiles) - MacOS dotfiles
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
 - [relekang/coredns-blocklist](https://github.com/relekang/coredns-blocklist) - This is a coredns plugin to return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
 - [thevrus/vrus.vercel.app](https://github.com/thevrus/vrus.vercel.app) - Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [Numonu/ilovejs](https://github.com/Numonu/ilovejs) - ILoveJS es una guía práctica diseñada para aprender JavaScript.
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro. 
 ### 📰 Recent Blog Posts
 
+- [Mastering ConfigMaps and Secrets in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-configmaps-secrets-guide/)
+- [Mastering Kubernetes Health Probes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-health-probes-guide/)
 - [Mastering Kubernetes Autoscaling - A Hands-On Guide to HPA](https://mranv.pages.dev/posts/kubernetes-autoscaling-hpa-guide/)
 - [Exploring Resource Requests and Limits in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-resource-requests-limits-guide/)
 - [Mastering Node Affinity in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-node-affinity-practical-guide/)
-- [Mastering Taints and Tolerations in Kubernetes - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-taints-tolerations-hands-on/)
-- [Hands-On with Kubernetes - Manual Scheduling, Static Pods, and Label Selectors](https://mranv.pages.dev/posts/kubernetes-manual-scheduling-static-pods-labels/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/AnubhavGain>
   - Website   : <https://mranv.pages.dev>
