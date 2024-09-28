@@ -40,11 +40,11 @@
 - [Numonu/ilovejs](https://github.com/Numonu/ilovejs) - ILoveJS es una guía práctica diseñada para aprender JavaScript.
 ### 📰 Recent Blog Posts
 
+- [Demystifying Kubernetes Networking and Container Network Interface (CNI)](https://mranv.pages.dev/posts/kubernetes-networking-cni-explained/)
+- [Understanding CoreDNS in Kubernetes - A Deep Dive](https://mranv.pages.dev/posts/understanding-coredns-kubernetes/)
+- [Demystifying SSL/TLS - A Visual Guide to Secure Communication](https://mranv.pages.dev/posts/ssl-tls-visual-guide/)
 - [Mastering ConfigMaps and Secrets in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-configmaps-secrets-guide/)
 - [Mastering Kubernetes Health Probes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-health-probes-guide/)
-- [Mastering Kubernetes Autoscaling - A Hands-On Guide to HPA](https://mranv.pages.dev/posts/kubernetes-autoscaling-hpa-guide/)
-- [Exploring Resource Requests and Limits in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-resource-requests-limits-guide/)
-- [Mastering Node Affinity in Kubernetes - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-node-affinity-practical-guide/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/AnubhavGain>
   - Website   : <https://mranv.pages.dev>
