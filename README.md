@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
-- [ErdajtSopjani/macdotfiles](https://github.com/ErdajtSopjani/macdotfiles) - MacOS dotfiles
-- [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio powered by Next.js, content sourced from Notion, styled with Tailwind CSS and deployed on Vercel. 🙌
-- [relekang/coredns-blocklist](https://github.com/relekang/coredns-blocklist) - This is a coredns plugin to return NXDOMAIN response for any domain on preloaded lists. It can be useful to block malware domains or trackers.
-- [thevrus/vrus.vercel.app](https://github.com/thevrus/vrus.vercel.app) - Free personal website template using Astro 4.0 and Tailwind CSS. Astro starter theme.
-- [Numonu/ilovejs](https://github.com/Numonu/ilovejs) - ILoveJS es una guía práctica diseñada para aprender JavaScript.
+- [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, no-frills static blogging template—built with Astro, Tailwind, and shadcn/ui.
+- [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) - Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS.
+- [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
+- [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI&#39;s Magic Portfolio
+- [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
 ### 📰 Recent Blog Posts
 
 - [Demystifying Kubernetes Networking and Container Network Interface (CNI)](https://mranv.pages.dev/posts/kubernetes-networking-cni-explained/)
