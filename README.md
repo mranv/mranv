@@ -19,11 +19,11 @@
 - [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 ### 🌱 My latest projects
 
+- [mranv/strs](https://github.com/mranv/strs) - 
+- [mranv/analog-watch-wasm](https://github.com/mranv/analog-watch-wasm) - 
 - [mranv/anime-blog](https://github.com/mranv/anime-blog) - 
 - [mranv/ndagentX-rs](https://github.com/mranv/ndagentX-rs) - 
 - [mranv/osd-security-plugin](https://github.com/mranv/osd-security-plugin) - 
-- [mranv/osdls](https://github.com/mranv/osdls) - wazuh &#43; logstash &#43; opensearch &#43; opensearch Dashboards = IKYK
-- [mranv/winapi.rs](https://github.com/mranv/winapi.rs) - Hello, Windows!
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
