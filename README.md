@@ -40,11 +40,11 @@
 - [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
 ### 📰 Recent Blog Posts
 
+- [Mastering Kubernetes Network Policies - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-network-policies-guide/)
+- [Understanding Kubernetes Service Accounts - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-service-accounts-guide/)
 - [Mastering Kubernetes RBAC - ClusterRoles and ClusterRoleBindings](https://mranv.pages.dev/posts/kubernetes-rbac-clusterroles/)
 - [Mastering Kubernetes RBAC - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-rbac-hands-on/)
 - [Demystifying Kubernetes Authentication and Authorization](https://mranv.pages.dev/posts/kubernetes-auth-explained/)
-- [Mastering JSONPath and Advanced kubectl Commands for CKA Exam](https://mranv.pages.dev/posts/jsonpath-advanced-kubectl-cka/)
-- [Mastering Worker Node Troubleshooting in Kubernetes - A CKA Exam Guide](https://mranv.pages.dev/posts/kubernetes-worker-node-troubleshooting-cka/)
 ### 📫 How to reach me:
   - Twitter   : <https://twitter.com/AnubhavGain>
   - Website   : <https://mranv.pages.dev>
