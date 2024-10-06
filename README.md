@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [openarmor/openarmor-tray](https://github.com/openarmor/openarmor-tray) - tray of openarmor-agent!
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
-- [openarmor/openarmor-docker](https://github.com/openarmor/openarmor-docker) - dotfiles for docker deployment of openarmor
 ### 🌱 My latest projects
 
+- [mranv/search.rs](https://github.com/mranv/search.rs) - A search engine code base, Thanks to Alexey Kutepov!
 - [mranv/strs](https://github.com/mranv/strs) - 
 - [mranv/analog-watch-wasm](https://github.com/mranv/analog-watch-wasm) - 
 - [mranv/anime-blog](https://github.com/mranv/anime-blog) - 
 - [mranv/ndagentX-rs](https://github.com/mranv/ndagentX-rs) - 
-- [mranv/osd-security-plugin](https://github.com/mranv/osd-security-plugin) - 
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
