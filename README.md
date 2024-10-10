@@ -12,7 +12,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [openarmor/openarmor-tray](https://github.com/openarmor/openarmor-tray) - tray of openarmor-agent!
+- [openarmor/openarmor-tray-windows](https://github.com/openarmor/openarmor-tray-windows) - tray of openarmor-agent!
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, no-frills static blogging template—built with Astro, Tailwind, and shadcn/ui.
 - [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) - Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS.
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
-- [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI&#39;s Magic Portfolio
 ### 📰 Recent Blog Posts
 
 - [Mastering Kubernetes Network Policies - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-network-policies-guide/)
