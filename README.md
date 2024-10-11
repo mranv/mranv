@@ -19,11 +19,11 @@
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 ### 🌱 My latest projects
 
+- [mranv/winprocess](https://github.com/mranv/winprocess) - 
 - [mranv/search.rs](https://github.com/mranv/search.rs) - A search engine code base, Thanks to Alexey Kutepov!
 - [mranv/strs](https://github.com/mranv/strs) - 
 - [mranv/analog-watch-wasm](https://github.com/mranv/analog-watch-wasm) - 
 - [mranv/anime-blog](https://github.com/mranv/anime-blog) - 
-- [mranv/ndagentX-rs](https://github.com/mranv/ndagentX-rs) - 
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [trustedsec/SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) - TrustedSec Sysinternals Sysmon Community Guide
 - [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, no-frills static blogging template—built with Astro, Tailwind, and shadcn/ui.
 - [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) - Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS.
-- [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 ### 📰 Recent Blog Posts
 
 - [Mastering Kubernetes Network Policies - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-network-policies-guide/)
