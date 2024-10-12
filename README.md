@@ -12,14 +12,14 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - 
 - [openarmor/openarmor-tray-windows](https://github.com/openarmor/openarmor-tray-windows) - tray of openarmor-agent!
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
-- [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 ### 🌱 My latest projects
 
-- [mranv/winprocess](https://github.com/mranv/winprocess) - 
+- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - 
 - [mranv/search.rs](https://github.com/mranv/search.rs) - A search engine code base, Thanks to Alexey Kutepov!
 - [mranv/strs](https://github.com/mranv/strs) - 
 - [mranv/analog-watch-wasm](https://github.com/mranv/analog-watch-wasm) - 
