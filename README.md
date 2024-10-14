@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - 
+- [logeagle/py](https://github.com/logeagle/py) - 
+- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - A poc on sysmon for process creation on kernel level!
 - [openarmor/openarmor-tray-windows](https://github.com/openarmor/openarmor-tray-windows) - tray of openarmor-agent!
 - [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
-- [anubhavg-icpl/ivn-forwarder](https://github.com/anubhavg-icpl/ivn-forwarder) - A basic rust base poc to forward logs from system text based files to prometheus_exporter into matrics
 ### 🌱 My latest projects
 
-- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - 
+- [mranv/opensearch-docker](https://github.com/mranv/opensearch-docker) - Using the latest Docker setup for OpenSearch and OpenSearch Dashboards
+- [mranv/gtk_systray_example](https://github.com/mranv/gtk_systray_example) - A simple GTK rust based POC!
+- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - A poc on sysmon for process creation on kernel level!
 - [mranv/search.rs](https://github.com/mranv/search.rs) - A search engine code base, Thanks to Alexey Kutepov!
 - [mranv/strs](https://github.com/mranv/strs) - 
-- [mranv/analog-watch-wasm](https://github.com/mranv/analog-watch-wasm) - 
-- [mranv/anime-blog](https://github.com/mranv/anime-blog) - 
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
