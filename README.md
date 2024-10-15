@@ -12,18 +12,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
+- [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
+- [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
+- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
-- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - A poc on sysmon for process creation on kernel level!
-- [openarmor/openarmor-tray-windows](https://github.com/openarmor/openarmor-tray-windows) - tray of openarmor-agent!
-- [mranv/blogs](https://github.com/mranv/blogs) - all my blogs goes here!
-- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 ### 🌱 My latest projects
 
+- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 - [mranv/opensearch-docker](https://github.com/mranv/opensearch-docker) - Using the latest Docker setup for OpenSearch and OpenSearch Dashboards
 - [mranv/gtk_systray_example](https://github.com/mranv/gtk_systray_example) - A simple GTK rust based POC!
 - [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - A poc on sysmon for process creation on kernel level!
 - [mranv/search.rs](https://github.com/mranv/search.rs) - A search engine code base, Thanks to Alexey Kutepov!
-- [mranv/strs](https://github.com/mranv/strs) - 
 ### 🔨 My recent Pull Requests
 
 - [A meticulously crafted undertaking, to personify the upcoming revisions. Timestamp: 1717024092](https://github.com/mranv/achievements/pull/11) on [mranv/achievements](https://github.com/mranv/achievements)
@@ -33,11 +33,11 @@
 - [An empty commit.](https://github.com/mranv/achievements/pull/7) on [mranv/achievements](https://github.com/mranv/achievements)
 ### ⭐ Recent Stars
 
+- [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [trustedsec/SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) - TrustedSec Sysinternals Sysmon Community Guide
 - [sotanakamura/winui-rust](https://github.com/sotanakamura/winui-rust) - 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [jktrn/astro-erudite](https://github.com/jktrn/astro-erudite) - 📝 An opinionated, no-frills static blogging template—built with Astro, Tailwind, and shadcn/ui.
-- [nicdun/astro-tech-blog](https://github.com/nicdun/astro-tech-blog) - Crisp, minimalistic personal blog theme built with Astro.js and TailwindCSS.
 ### 📰 Recent Blog Posts
 
 - [Mastering Kubernetes Network Policies - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-network-policies-guide/)
