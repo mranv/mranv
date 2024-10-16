@@ -12,10 +12,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 - [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
-- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
 ### 🌱 My latest projects
 
