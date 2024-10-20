@@ -78,21 +78,21 @@
 
 
 
-- [openarmor/openarmor-architecture](https://github.com/openarmor/openarmor-architecture) - 
 - [openarmor/osd-plugins](https://github.com/openarmor/osd-plugins) - OpenSearch Dashboard Plugins for Open Armor
-- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
-- [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
+- [openarmor/openarmor-architecture](https://github.com/openarmor/openarmor-architecture) - 
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
+- [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
+- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/systray-media-player](https://github.com/mranv/systray-media-player) - 
 - [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 - [mranv/opensearch-docker](https://github.com/mranv/opensearch-docker) - Using the latest Docker setup for OpenSearch and OpenSearch Dashboards
 - [mranv/gtk_systray_example](https://github.com/mranv/gtk_systray_example) - A simple GTK rust based POC!
 - [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - A poc on sysmon for process creation on kernel level!
-- [mranv/search.rs](https://github.com/mranv/search.rs) - A search engine code base, Thanks to Alexey Kutepov!
 
 ### 🔨 My recent Pull Requests
 
