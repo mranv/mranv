@@ -78,11 +78,11 @@
 
 
 
-- [openarmor/osd-plugins](https://github.com/openarmor/osd-plugins) - OpenSearch Dashboard Plugins for Open Armor
-- [openarmor/openarmor-architecture](https://github.com/openarmor/openarmor-architecture) - 
-- [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
-- [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
 - [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
+- [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
+- [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
+- [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
+- [logeagle/py](https://github.com/logeagle/py) - 
 
 ### 🌱 My latest projects
 
