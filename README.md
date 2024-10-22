@@ -78,11 +78,11 @@
 
 
 
+- [openarmor/openarmor-architecture](https://github.com/openarmor/openarmor-architecture) - 
 - [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
-- [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
+- [openarmor/openarmor-latex](https://github.com/openarmor/openarmor-latex) - 
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
-- [logeagle/py](https://github.com/logeagle/py) - 
 
 ### 🌱 My latest projects
 
