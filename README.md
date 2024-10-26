@@ -78,21 +78,21 @@
 
 
 
+- [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
+- [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
-- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
-- [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
+- [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
+- [mranv/giphy-osd-plugin](https://github.com/mranv/giphy-osd-plugin) - 
 - [mranv/systray-media-player](https://github.com/mranv/systray-media-player) - 
 - [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
-- [mranv/opensearch-docker](https://github.com/mranv/opensearch-docker) - Using the latest Docker setup for OpenSearch and OpenSearch Dashboards
-- [mranv/gtk_systray_example](https://github.com/mranv/gtk_systray_example) - A simple GTK rust based POC!
-- [mranv/sysmon-process](https://github.com/mranv/sysmon-process) - A poc on sysmon for process creation on kernel level!
 
 ### 🔨 My recent Pull Requests
 
