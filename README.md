@@ -78,21 +78,21 @@
 
 
 
-- [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 - [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
+- [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 - [logeagle/py](https://github.com/logeagle/py) - 
-- [openarmor/openarmor-branding](https://github.com/openarmor/openarmor-branding) - 
+- [openarmor/openarmor-architecture](https://github.com/openarmor/openarmor-architecture) - 
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/sysmon-datapepper](https://github.com/mranv/sysmon-datapepper) - 
 - [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 - [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 - [mranv/giphy-osd-plugin](https://github.com/mranv/giphy-osd-plugin) - 
 - [mranv/systray-media-player](https://github.com/mranv/systray-media-player) - 
-- [mranv/wazuh-images-arch](https://github.com/mranv/wazuh-images-arch) - 
 
 ### 🔨 My recent Pull Requests
 
