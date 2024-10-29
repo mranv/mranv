@@ -88,11 +88,11 @@
 
 
 
+- [mranv/vijaybhai](https://github.com/mranv/vijaybhai) - 
 - [mranv/sysmon-datapepper](https://github.com/mranv/sysmon-datapepper) - 
 - [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 - [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 - [mranv/giphy-osd-plugin](https://github.com/mranv/giphy-osd-plugin) - 
-- [mranv/systray-media-player](https://github.com/mranv/systray-media-player) - 
 
 ### 🔨 My recent Pull Requests
 
