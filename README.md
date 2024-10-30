@@ -78,10 +78,10 @@
 
 
 
+- [mranv/vijaybhai](https://github.com/mranv/vijaybhai) - 
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 - [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
-- [logeagle/py](https://github.com/logeagle/py) - 
 - [logeagle/dashboard.py](https://github.com/logeagle/dashboard.py) - 
 
 ### 🌱 My latest projects
