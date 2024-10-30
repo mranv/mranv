@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.88mb of code in 905 edited files across 114 commits over last 13 days</small>
+                <small>estimation from 1.88mb of code in 914 edited files across 117 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.98759042279823" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.98759042279823" y="0" width="8.882326584038076" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="440.8699170068363" y="0" width="6.8468948420048665" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.7168118488412" y="0" width="4.445761609575791" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.16257345841694" y="0" width="2.7719740189177844" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.9345474773347" y="0" width="2.3389207007788912" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="457.27346817811366" y="0" width="1.6080586985232463" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.88152687663694" y="0" width="1.118473123363099" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.5607553057503" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.5607553057503" y="0" width="8.87355020019926" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.4343055059496" y="0" width="6.840129612572137" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.27443511852175" y="0" width="4.441368874184635" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.71580399270636" y="0" width="2.76923510724289" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.4850390999493" y="0" width="2.3366096772374383" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.82164877718674" y="0" width="2.0609832321371506" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.88263200932386" y="0" width="1.117367990676166" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -474,7 +474,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 45 commits)</small>
+                    <small class="h-details">(computed from last 47 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2978,7 +2978,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.49m out of 189m repositories</span>
+                                    <span class="gh">ranked 1.49m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -3265,7 +3265,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2024, 23:34:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2024, 00:33:35 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
