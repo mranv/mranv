@@ -78,21 +78,21 @@
 
 
 
-- [mranv/vijaybhai](https://github.com/mranv/vijaybhai) - 
+- [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
+- [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
-- [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 - [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
-- [logeagle/py](https://github.com/logeagle/py) - 
+- [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
+- [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
 - [mranv/sb1-rt1xxx](https://github.com/mranv/sb1-rt1xxx) - Created with StackBlitz ⚡️
 - [mranv/memory-safe](https://github.com/mranv/memory-safe) - 
 - [mranv/vijaybhai](https://github.com/mranv/vijaybhai) - 
-- [mranv/sysmon-datapepper](https://github.com/mranv/sysmon-datapepper) - 
-- [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 
 ### 🔨 My recent Pull Requests
 
