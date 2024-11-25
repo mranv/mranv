@@ -78,21 +78,21 @@
 
 
 
+- [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
 - [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
-- [mranv/opensearch-fluent-observability](https://github.com/mranv/opensearch-fluent-observability) - A Poc on observality using opensearch and fluentbit
 - [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 
 ### 🌱 My latest projects
 
 
 
-- [mranv/active-response](https://github.com/mranv/active-response) - 
+- [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
+- [mranv/active-response](https://github.com/mranv/active-response) - A rust based code for hardening windows!
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
 - [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
 - [mranv/sb1-rt1xxx](https://github.com/mranv/sb1-rt1xxx) - Created with StackBlitz ⚡️
-- [mranv/memory-safe](https://github.com/mranv/memory-safe) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -102,11 +102,11 @@
 
 
 
+- [gotenberg/awesome-gotenberg](https://github.com/gotenberg/awesome-gotenberg) - :rainbow: A curated list of awesome things related to Gotenberg.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [microsoft/AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity) - An open repo for Azure Monitor queries, workbooks, alerts and more
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-- [trustedsec/SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide) - TrustedSec Sysinternals Sysmon Community Guide
 
 ### 📰 Recent Blog Posts
 
