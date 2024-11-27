@@ -78,21 +78,21 @@
 
 
 
+- [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - 
 - [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
 - [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
-- [mranv/opensearch-multi-tenancy](https://github.com/mranv/opensearch-multi-tenancy) - 
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - 
 - [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 - [mranv/active-response](https://github.com/mranv/active-response) - A rust based code for hardening windows!
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
 - [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
-- [mranv/sb1-rt1xxx](https://github.com/mranv/sb1-rt1xxx) - Created with StackBlitz ⚡️
 
 ### 🔨 My recent Pull Requests
 
