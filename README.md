@@ -78,7 +78,7 @@
 
 
 
-- [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - 
+- [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - A Linux Simple Permission Manager!
 - [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
@@ -88,7 +88,7 @@
 
 
 
-- [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - 
+- [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - A Linux Simple Permission Manager!
 - [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 - [mranv/active-response](https://github.com/mranv/active-response) - A rust based code for hardening windows!
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
