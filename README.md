@@ -88,11 +88,11 @@
 
 
 
+- [mranv/nats-ansible](https://github.com/mranv/nats-ansible) - 
+- [mranv/tf-docker](https://github.com/mranv/tf-docker) - A repo for docker &#43; terraform!
 - [mranv/syslog-server](https://github.com/mranv/syslog-server) - A Production usage based syslog server in rust!
 - [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - A Linux Simple Permission Manager!
 - [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
-- [mranv/active-response](https://github.com/mranv/active-response) - A rust based code for hardening windows!
-- [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
 
 ### 🔨 My recent Pull Requests
 
