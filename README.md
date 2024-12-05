@@ -88,11 +88,11 @@
 
 
 
+- [mranv/surreal-ansible](https://github.com/mranv/surreal-ansible) - SurrealDB Cluster Deployment
 - [mranv/nats-ansible](https://github.com/mranv/nats-ansible) - 
 - [mranv/tf-docker](https://github.com/mranv/tf-docker) - A repo for docker &#43; terraform!
 - [mranv/syslog-server](https://github.com/mranv/syslog-server) - A Production usage based syslog server in rust!
 - [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - A Linux Simple Permission Manager!
-- [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 
 ### 🔨 My recent Pull Requests
 
