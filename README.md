@@ -78,11 +78,11 @@
 
 
 
+- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 - [mranv/linux-permission-manager](https://github.com/mranv/linux-permission-manager) - A Linux Simple Permission Manager!
 - [mranv/rust-cert-authority](https://github.com/mranv/rust-cert-authority) - Rust Server with Automatic Cert Creation!
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [mranv/techanv-seo](https://github.com/mranv/techanv-seo) - 
-- [mranv/openvpn-sc](https://github.com/mranv/openvpn-sc) - A Shell Script for Automating OpenVpn Server and Client Setup with private IP!
 
 ### 🌱 My latest projects
 
