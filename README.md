@@ -88,11 +88,11 @@
 
 
 
+- [mranv/event-logger](https://github.com/mranv/event-logger) - 
 - [mranv/macos-security-logger](https://github.com/mranv/macos-security-logger) - A small security logger based on rust for macos!
 - [mranv/macos_security_logs](https://github.com/mranv/macos_security_logs) - 
 - [mranv/security-monitor](https://github.com/mranv/security-monitor) - 
 - [mranv/surreal-ansible-automation](https://github.com/mranv/surreal-ansible-automation) - 
-- [mranv/surreal-ansible](https://github.com/mranv/surreal-ansible) - SurrealDB Cluster Deployment
 
 ### 🔨 My recent Pull Requests
 
