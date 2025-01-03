@@ -78,11 +78,11 @@
 
 
 
+- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [chhattisgarhvidya/chhattisgarhvidya](https://github.com/chhattisgarhvidya/chhattisgarhvidya) - 
 - [mranv/macos-security-logger](https://github.com/mranv/macos-security-logger) - A small security logger based on rust for macos!
-- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 
 ### 🌱 My latest projects
 
@@ -102,11 +102,11 @@
 
 
 
+- [jymcheong/SysmonViz](https://github.com/jymcheong/SysmonViz) - Sysmon Visualization
 - [V-i-x-x/SSL-AES-Reverse-Shell](https://github.com/V-i-x-x/SSL-AES-Reverse-Shell) - C&#43;&#43; SSL/TLS REVERSE SHELL, designed to provide secure, encrypted communication between a compromised client and an attacker, while blending seamlessly into HTTP traffic.
 - [gotenberg/awesome-gotenberg](https://github.com/gotenberg/awesome-gotenberg) - :rainbow: A curated list of awesome things related to Gotenberg.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-- [microsoft/AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity) - An open repo for Azure Monitor queries, workbooks, alerts and more
 
 ### 📰 Recent Blog Posts
 
