@@ -82,7 +82,7 @@
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [chhattisgarhvidya/chhattisgarhvidya](https://github.com/chhattisgarhvidya/chhattisgarhvidya) - 
-- [mranv/macos-security-logger](https://github.com/mranv/macos-security-logger) - A small security logger based on rust for macos!
+- [mranv/mranv.github.io](https://github.com/mranv/mranv.github.io) - This repository, mranv.github.io, the code for my personal website.
 
 ### 🌱 My latest projects
 
