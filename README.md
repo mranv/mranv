@@ -88,11 +88,11 @@
 
 
 
+- [mranv/xpfolio](https://github.com/mranv/xpfolio) - 
+- [mranv/otel-hello-world](https://github.com/mranv/otel-hello-world) - 
 - [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
 - [mranv/event-logger](https://github.com/mranv/event-logger) - 
 - [mranv/macos-security-logger](https://github.com/mranv/macos-security-logger) - A small security logger based on rust for macos!
-- [mranv/macos_security_logs](https://github.com/mranv/macos_security_logs) - 
-- [mranv/security-monitor](https://github.com/mranv/security-monitor) - 
 
 ### 🔨 My recent Pull Requests
 
