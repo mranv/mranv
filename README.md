@@ -88,11 +88,11 @@
 
 
 
+- [mranv/tray](https://github.com/mranv/tray) - 
 - [mranv/filebeat-conifg](https://github.com/mranv/filebeat-conifg) - 
 - [mranv/xpfolio](https://github.com/mranv/xpfolio) - 
 - [mranv/otel-hello-world](https://github.com/mranv/otel-hello-world) - 
 - [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
-- [mranv/event-logger](https://github.com/mranv/event-logger) - 
 
 ### 🔨 My recent Pull Requests
 
