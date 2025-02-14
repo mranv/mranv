@@ -88,11 +88,11 @@
 
 
 
+- [mranv/subscriber-tcp](https://github.com/mranv/subscriber-tcp) - 
+- [mranv/publisher-tcp](https://github.com/mranv/publisher-tcp) - 
 - [mranv/tray](https://github.com/mranv/tray) - 
 - [mranv/filebeat-conifg](https://github.com/mranv/filebeat-conifg) - 
 - [mranv/xpfolio](https://github.com/mranv/xpfolio) - 
-- [mranv/otel-hello-world](https://github.com/mranv/otel-hello-world) - 
-- [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
 
 ### 🔨 My recent Pull Requests
 
