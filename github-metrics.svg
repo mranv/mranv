@@ -2928,7 +2928,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.49m out of 233m repositories</span>
+                                    <span class="gh">ranked 1.49m out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -3215,7 +3215,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2025, 02:34:00 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2025, 03:33:45 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
