@@ -102,11 +102,11 @@
 
 
 
+- [ocsf/common-process-id](https://github.com/ocsf/common-process-id) - OCSF Common Process Identifier (CPID)
 - [mandiant/macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) - 
 - [morgoved/wazuh-helm](https://github.com/morgoved/wazuh-helm) - wazuh-helm-chart
 - [jymcheong/SysmonViz](https://github.com/jymcheong/SysmonViz) - Sysmon Visualization
 - [V-i-x-x/SSL-AES-Reverse-Shell](https://github.com/V-i-x-x/SSL-AES-Reverse-Shell) - C&#43;&#43; Encrypted SSL/TLS REVERSE SHELL, designed to provide secure, encrypted communication between a compromised client and an attacker, while blending seamlessly into HTTP traffic.
-- [gotenberg/awesome-gotenberg](https://github.com/gotenberg/awesome-gotenberg) - :rainbow: A curated list of awesome things related to Gotenberg.
 
 ### 📰 Recent Blog Posts
 
