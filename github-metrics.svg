@@ -226,17 +226,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 470kb of code in 158 edited files across 75 commits over last 14 days</small>
+                <small>estimation from 430kb of code in 147 edited files across 71 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.57162593158233" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="372.57162593158233" y="0" width="80.22190682287928" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.7935327544616" y="0" width="4.94249958176608" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.73603233622765" y="0" width="1.6756339616735831" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.41166629790126" y="0" width="0.5883337020987248" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.586917057903" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="358.586917057903" y="0" width="93.05389671361502" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.64081377151797" y="0" width="5.733082942097027" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.373896713615" y="0" width="1.9436619718309858" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.317558685446" y="0" width="0.6824413145539906" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -453,7 +453,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 36 commits)</small>
+                    <small class="h-details">(computed from last 34 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2964,7 +2964,7 @@ double delta = Math.Abs(ts.TotalSeconds);
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.50m out of 233m repositories</span>
+                                    <span class="gh">ranked 1.50m out of 239m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -3251,7 +3251,7 @@ double delta = Math.Abs(ts.TotalSeconds);
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2025, 17:34:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2025, 18:34:30 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
