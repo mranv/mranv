@@ -102,11 +102,11 @@
 
 
 
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [sshlog/agent](https://github.com/sshlog/agent) - SSH Session Monitoring Daemon
 - [codyps/rust-systemd](https://github.com/codyps/rust-systemd) - Rust interface to systemd c apis
 - [ocsf/common-process-id](https://github.com/ocsf/common-process-id) - OCSF Common Process Identifier (CPID)
-- [mandiant/macos-UnifiedLogs](https://github.com/mandiant/macos-UnifiedLogs) - 
-- [morgoved/wazuh-helm](https://github.com/morgoved/wazuh-helm) - wazuh-helm-chart
 
 ### 📰 Recent Blog Posts
 
