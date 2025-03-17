@@ -112,11 +112,11 @@
 
 
 
+- [Understanding DNS - The Internet&#39;s Phone Book](https://mranv.pages.dev/posts/understanding-dns-internet-phone-book/)
+- [Mastering Kubernetes Storage - PersistentVolumes, PersistentVolumeClaims, and StorageClasses](https://mranv.pages.dev/posts/kubernetes-storage-pv-pvc-storageclass/)
+- [Understanding Docker Storage - Volumes, Bind Mounts, and Persistent Data](https://mranv.pages.dev/posts/docker-storage-volumes-bind-mounts/)
+- [Mastering Kubernetes - Setting Up a Multi-Node Cluster with Kubeadm 1.29](https://mranv.pages.dev/posts/kubernetes-multi-node-cluster-kubeadm/)
 - [Mastering Kubernetes Network Policies - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-network-policies-guide/)
-- [Understanding Kubernetes Service Accounts - A Practical Guide](https://mranv.pages.dev/posts/kubernetes-service-accounts-guide/)
-- [Mastering Kubernetes RBAC - ClusterRoles and ClusterRoleBindings](https://mranv.pages.dev/posts/kubernetes-rbac-clusterroles/)
-- [Mastering Kubernetes RBAC - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-rbac-hands-on/)
-- [Demystifying Kubernetes Authentication and Authorization](https://mranv.pages.dev/posts/kubernetes-auth-explained/)
 
 ### 📫 How to reach me:
 
