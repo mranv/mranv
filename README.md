@@ -88,11 +88,11 @@
 
 
 
+- [mranv/opensearch-demo](https://github.com/mranv/opensearch-demo) - 
 - [mranv/opensearch-podman-deploy](https://github.com/mranv/opensearch-podman-deploy) - 
 - [mranv/rs-nats](https://github.com/mranv/rs-nats) - 
 - [mranv/vector-demo-opensearch](https://github.com/mranv/vector-demo-opensearch) - 
 - [mranv/macos-log-collector](https://github.com/mranv/macos-log-collector) - 
-- [mranv/ocsf-opensearch](https://github.com/mranv/ocsf-opensearch) - 
 
 ### 🔨 My recent Pull Requests
 
