@@ -88,11 +88,11 @@
 
 
 
+- [mranv/macosEndpointSecurity](https://github.com/mranv/macosEndpointSecurity) - 
 - [mranv/endpointsecurityapi](https://github.com/mranv/endpointsecurityapi) - 
 - [mranv/MacOSSecurityMonitor](https://github.com/mranv/MacOSSecurityMonitor) - 
 - [mranv/docker-php-5.2](https://github.com/mranv/docker-php-5.2) - 
 - [mranv/Winexe-1.1-Installation](https://github.com/mranv/Winexe-1.1-Installation) - 
-- [mranv/wmic](https://github.com/mranv/wmic) - 
 
 ### 🔨 My recent Pull Requests
 
