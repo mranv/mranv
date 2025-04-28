@@ -78,21 +78,21 @@
 
 
 
+- [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
 - [chhattisgarhvidya/chhattisgarhvidya](https://github.com/chhattisgarhvidya/chhattisgarhvidya) - 
-- [mranv/macos_security_logs](https://github.com/mranv/macos_security_logs) - 
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [mranv/macosEndpointSecurity](https://github.com/mranv/macosEndpointSecurity) - 
 - [mranv/endpointsecurityapi](https://github.com/mranv/endpointsecurityapi) - 
 - [mranv/MacOSSecurityMonitor](https://github.com/mranv/MacOSSecurityMonitor) - 
 - [mranv/docker-php-5.2](https://github.com/mranv/docker-php-5.2) - 
-- [mranv/Winexe-1.1-Installation](https://github.com/mranv/Winexe-1.1-Installation) - 
 
 ### 🔨 My recent Pull Requests
 
