@@ -82,7 +82,7 @@
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
 - [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
-- [chhattisgarhvidya/chhattisgarhvidya](https://github.com/chhattisgarhvidya/chhattisgarhvidya) - 
+- [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
 
 ### 🌱 My latest projects
 
@@ -102,11 +102,11 @@
 
 
 
+- [ishiharas/Smart-Lights-Yeelight](https://github.com/ishiharas/Smart-Lights-Yeelight) - Control Yeelight Devices quickly from your Mac OS Tray
 - [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [sshlog/agent](https://github.com/sshlog/agent) - SSH Session Monitoring Daemon
 - [codyps/rust-systemd](https://github.com/codyps/rust-systemd) - Rust interface to systemd c apis
-- [ocsf/common-process-id](https://github.com/ocsf/common-process-id) - OCSF Common Process Identifier (CPID)
 
 ### 📰 Recent Blog Posts
 
