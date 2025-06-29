@@ -82,7 +82,7 @@
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
-- [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
+- [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
 
 ### 🌱 My latest projects
 
@@ -112,11 +112,11 @@
 
 
 
-- [Understanding DNS - The Internet&#39;s Phone Book](https://mranv.pages.dev/posts/understanding-dns-internet-phone-book/)
-- [Mastering Kubernetes Storage - PersistentVolumes, PersistentVolumeClaims, and StorageClasses](https://mranv.pages.dev/posts/kubernetes-storage-pv-pvc-storageclass/)
-- [Understanding Docker Storage - Volumes, Bind Mounts, and Persistent Data](https://mranv.pages.dev/posts/docker-storage-volumes-bind-mounts/)
-- [Mastering Kubernetes - Setting Up a Multi-Node Cluster with Kubeadm 1.29](https://mranv.pages.dev/posts/kubernetes-multi-node-cluster-kubeadm/)
-- [Mastering Kubernetes Network Policies - A Hands-On Guide](https://mranv.pages.dev/posts/kubernetes-network-policies-guide/)
+- [Secure Kafka UI Helm Configuration for Kubernetes](https://mranv.pages.dev/posts/kafka-ui-helm-secure-configuration/)
+- [Wazuh Agent Status to NATS Integration - Rust POC](https://mranv.pages.dev/posts/wazuh-agent-status-monitor-rust/)
+- [Wazuh Core Integration with NATS - C/C&#43;&#43; POC Implementation](https://mranv.pages.dev/posts/wazuh-core-nats-integration-c/)
+- [Wazuh Manager-Side Keep-Alive Integration with NATS](https://mranv.pages.dev/posts/wazuh-manager-nats-keepalive-integration/)
+- [Wazuh 4.12.0 &#43; OpenSearch 2.19.2 &#43; Filebeat Integration Guide](https://mranv.pages.dev/posts/wazuh-correlation-opensearch-implementation/)
 
 ### 📫 How to reach me:
 
