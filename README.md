@@ -82,7 +82,7 @@
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
-- [meetansoftworld/meetansoftworld.github.io](https://github.com/meetansoftworld/meetansoftworld.github.io) - Website of Meetan Soft World
+- [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
 
 ### 🌱 My latest projects
 
