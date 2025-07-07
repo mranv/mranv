@@ -80,9 +80,9 @@
 
 - [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
+- [mranv/rs-nats](https://github.com/mranv/rs-nats) - 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 - [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
-- [mranv/information](https://github.com/mranv/information) - Blogs on Splunk &amp; Wazuh!
 
 ### 🌱 My latest projects
 
