@@ -112,11 +112,11 @@
 
 
 
-- [Secure Kafka UI Helm Configuration for Kubernetes](https://mranv.pages.dev/posts/kafka-ui-helm-secure-configuration/)
-- [Wazuh Agent Status to NATS Integration - Rust POC](https://mranv.pages.dev/posts/wazuh-agent-status-monitor-rust/)
-- [Wazuh Core Integration with NATS - C/C&#43;&#43; POC Implementation](https://mranv.pages.dev/posts/wazuh-core-nats-integration-c/)
-- [Wazuh Manager-Side Keep-Alive Integration with NATS](https://mranv.pages.dev/posts/wazuh-manager-nats-keepalive-integration/)
-- [Wazuh 4.12.0 &#43; OpenSearch 2.19.2 &#43; Filebeat Integration Guide](https://mranv.pages.dev/posts/wazuh-correlation-opensearch-implementation/)
+- [Linux Kernel Exploitation and Defense: Understanding Attack Techniques and Building Robust Defenses](https://mranv.pages.dev/posts/linux-kernel-exploitation-defense/)
+- [Linux Kernel Hardening: Modern Security Features and Mitigation Techniques](https://mranv.pages.dev/posts/linux-kernel-hardening-security-features/)
+- [Linux Security Modules (LSM): A Deep Dive into Kernel-Level Security Frameworks](https://mranv.pages.dev/posts/linux-kernel-security-modules-deep-dive/)
+- [container2wasm: Running Existing Linux Containers on WebAssembly Without Modification](https://mranv.pages.dev/posts/container2wasm-linux-containers-webassembly-browser/)
+- [Advanced eBPF Security Patterns for Cloud-Native Kubernetes Environments](https://mranv.pages.dev/posts/ebpf-cloud-native-security-patterns/)
 
 ### 📫 How to reach me:
 
