@@ -112,11 +112,11 @@
 
 
 
-- [Linux Kernel Exploitation and Defense: Understanding Attack Techniques and Building Robust Defenses](https://mranv.pages.dev/posts/linux-kernel-exploitation-defense/)
-- [Linux Kernel Hardening: Modern Security Features and Mitigation Techniques](https://mranv.pages.dev/posts/linux-kernel-hardening-security-features/)
-- [Linux Security Modules (LSM): A Deep Dive into Kernel-Level Security Frameworks](https://mranv.pages.dev/posts/linux-kernel-security-modules-deep-dive/)
-- [container2wasm: Running Existing Linux Containers on WebAssembly Without Modification](https://mranv.pages.dev/posts/container2wasm-linux-containers-webassembly-browser/)
-- [Advanced eBPF Security Patterns for Cloud-Native Kubernetes Environments](https://mranv.pages.dev/posts/ebpf-cloud-native-security-patterns/)
+- [eBPF SSL/TLS Encrypted Traffic Analysis: Real-Time Insights Without Certificates](https://mranv.pages.dev/posts/ebpf-ssl-tls-encrypted-traffic-analysis/)
+- [eBPF Map Pressure Monitoring using eBPF Iterators: Preventing Performance Bottlenecks](https://mranv.pages.dev/posts/ebpf-map-pressure-monitoring-iterators/)
+- [eBPF: Revolutionizing Observability for DevOps and SRE Teams](https://mranv.pages.dev/posts/ebpf-revolutionizing-observability-devops-sre/)
+- [eBPF TLS Tracing: The Past, Present and Future of Encrypted Traffic Observability](https://mranv.pages.dev/posts/ebpf-tls-tracing-past-present-future/)
+- [eBPF Map Metrics Prometheus Exporter: Advanced Observability with eBPF Iterators](https://mranv.pages.dev/posts/ebpf-map-metrics-prometheus-exporter/)
 
 ### 📫 How to reach me:
 
