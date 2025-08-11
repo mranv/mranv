@@ -79,20 +79,20 @@
 
 
 - [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
+- [mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw) - 
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [mranv/rs-nats](https://github.com/mranv/rs-nats) - 
 - [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
-- [techanvconsulting/ai.techanv.com](https://github.com/techanvconsulting/ai.techanv.com) - website for web developemnt part of techanv consulting.
 
 ### 🌱 My latest projects
 
 
 
+- [mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw) - 
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [mranv/macosEndpointSecurity](https://github.com/mranv/macosEndpointSecurity) - 
 - [mranv/endpointsecurityapi](https://github.com/mranv/endpointsecurityapi) - 
 - [mranv/MacOSSecurityMonitor](https://github.com/mranv/MacOSSecurityMonitor) - 
-- [mranv/docker-php-5.2](https://github.com/mranv/docker-php-5.2) - 
 
 ### 🔨 My recent Pull Requests
 
