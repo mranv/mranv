@@ -88,11 +88,11 @@
 
 
 
+- [mranv/vitepress-theme-curve](https://github.com/mranv/vitepress-theme-curve) - 
 - [mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw) - 
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [mranv/macosEndpointSecurity](https://github.com/mranv/macosEndpointSecurity) - 
 - [mranv/endpointsecurityapi](https://github.com/mranv/endpointsecurityapi) - 
-- [mranv/MacOSSecurityMonitor](https://github.com/mranv/MacOSSecurityMonitor) - 
 
 ### 🔨 My recent Pull Requests
 
