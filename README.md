@@ -102,11 +102,11 @@
 
 
 
+- [zero2504/COMouflage](https://github.com/zero2504/COMouflage) - COM-based DLL Surrogate Injection
 - [marty-thane/marble](https://github.com/marty-thane/marble) - An automated ricing solution for Void Linux.
 - [ishiharas/Smart-Lights-Yeelight](https://github.com/ishiharas/Smart-Lights-Yeelight) - Control Yeelight Devices quickly from your Mac OS Tray
 - [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [sshlog/agent](https://github.com/sshlog/agent) - SSH Session Monitoring Daemon
 
 ### 📰 Recent Blog Posts
 
