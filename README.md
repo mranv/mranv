@@ -112,11 +112,11 @@
 
 
 
+- [Building ML-Powered Threat Intelligence with Honeypot Datasets: From Raw Data to Production Models](https://mranv.pages.dev/posts/ml-threat-intelligence-honeypot-datasets/)
 - [Complete LangChain Integration with Wazuh MCP Server: Building AI-Powered Security Agents](https://mranv.pages.dev/posts/wazuh-mcp-langchain-integration-tutorial/)
 - [eBPF SSL/TLS Encrypted Traffic Analysis: Real-Time Insights Without Certificates](https://mranv.pages.dev/posts/ebpf-ssl-tls-encrypted-traffic-analysis/)
 - [eBPF Map Pressure Monitoring using eBPF Iterators: Preventing Performance Bottlenecks](https://mranv.pages.dev/posts/ebpf-map-pressure-monitoring-iterators/)
 - [eBPF: Revolutionizing Observability for DevOps and SRE Teams](https://mranv.pages.dev/posts/ebpf-revolutionizing-observability-devops-sre/)
-- [eBPF TLS Tracing: The Past, Present and Future of Encrypted Traffic Observability](https://mranv.pages.dev/posts/ebpf-tls-tracing-past-present-future/)
 
 ### 📫 How to reach me:
 
