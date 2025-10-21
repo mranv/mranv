@@ -1,118 +1,66 @@
-<!-- Centered image with link to Anubhav Gain’s GitHub profile -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mranv/mranv/main/anubhavgain.png" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mranv/mranv/main/anubhavgain.png" alt="Anubhav Gain Banner" />
 
-### Socials
+  <h3>Hi there 👋 I'm Anubhav Gain</h3>
+  <p><i>Cybersecurity Enthusiast | eBPF Developer | Cloud Security Professional</i></p>
 
-<p align="left">
-  <!-- GitHub profile with support for dark and light themes -->
-  <a href="https://www.github.com/mranv" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+  [![Website](https://img.shields.io/badge/Website-mranv.pages.dev-blue?style=flat-square&logo=google-chrome)](https://mranv.pages.dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-@AnubhavGain-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AnubhavGain)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhavgain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavgain)
+  [![Instagram](https://img.shields.io/badge/Instagram-anubhavgain-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anubhavgain)
+  [![RSS Feed](https://img.shields.io/badge/RSS-Subscribe-FFA500?style=flat-square&logo=rss&logoColor=white)](https://mranv.pages.dev/rss.xml)
+</div>
 
-  <!-- Instagram profile -->
-  <a href="http://www.instagram.com/anubhavgain" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+---
 
-  <!-- LinkedIn profile -->
-  <a href="https://www.linkedin.com/in/anubhavgain" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+## 📊 GitHub Analytics
 
-  <!-- RSS feed link -->
-  <a href="https://mranv.pages.dev/rss.xml" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
-  <!-- Twitter profile -->
-  <a href="https://www.x.com/AnubhavGain" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
-</p>
+---
 
-### GitHub Stats
+## 🚀 Current Projects
 
-<!-- Embed GitHub metrics image -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" />
-</p>
-
-### 👷 Check out what I'm currently working on
-
-<!-- Loop to display recent contributions -->
 {{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})** - {{ .Repo.Description }}
 {{- end }}
 
-### 🌱 My latest projects
+---
 
-<!-- Loop to display recent repositories -->
+## 🌱 Latest Repositories
+
 {{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+- **[{{ .Name }}]({{ .URL }})** {{ if .Description }}- {{ .Description }}{{ end }}
 {{- end }}
 
-### 🔨 My recent Pull Requests
+---
 
-<!-- Loop to display recent pull requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }} -->
+## ⭐ Recently Starred
 
-### ⭐ Recent Stars
-
-<!-- Loop to display recently starred repositories -->
 {{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+- **[{{ .Repo.Name }}]({{ .Repo.URL }})** - {{ .Repo.Description }}
 {{- end }}
 
-### 📰 Recent Blog Posts
+---
 
-<!-- Loop to display recent blog posts from the RSS feed -->
+## 📝 Latest Blog Posts
+
 {{ range rss "https://mranv.pages.dev/rss.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 
-### 📫 How to reach me:
+---
 
-<!-- Contact information -->
-- **Twitter:** <https://twitter.com/AnubhavGain>  
-- **Website:** <https://mranv.pages.dev>  
-- **LinkedIn:** <https://www.linkedin.com/in/anubhavgain>  
-- **Instagram:** <https://www.instagram.com/anubhavgain>
+<div align="center">
+  <h3>📫 Connect With Me</h3>
+
+  [![Website](https://img.shields.io/badge/🌐_Website-mranv.pages.dev-blue?style=for-the-badge)](https://mranv.pages.dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-@AnubhavGain-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnubhavGain)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhavgain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavgain)
+  [![Instagram](https://img.shields.io/badge/Instagram-anubhavgain-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anubhavgain)
+
+  <p><i>💡 Passionate about eBPF, Cybersecurity, and Cloud Technologies</i></p>
+  <p><sub>⚡ Profile updates weekly via GitHub Actions</sub></p>
+</div>
