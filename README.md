@@ -1,115 +1,60 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mranv/mranv/main/anubhavgain.png" alt="Anubhav Gain Banner" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mranv/mranv/main/anubhavgain.png" />
-</p>
+  <h3>Hi there 👋 I'm Anubhav Gain</h3>
+  <p><i>Cybersecurity Enthusiast | eBPF Developer | Cloud Security Professional</i></p>
 
-### Socials
+  [![Website](https://img.shields.io/badge/Website-mranv.pages.dev-blue?style=flat-square&logo=google-chrome)](https://mranv.pages.dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-@AnubhavGain-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AnubhavGain)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhavgain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavgain)
+  [![Instagram](https://img.shields.io/badge/Instagram-anubhavgain-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anubhavgain)
+  [![RSS Feed](https://img.shields.io/badge/RSS-Subscribe-FFA500?style=flat-square&logo=rss&logoColor=white)](https://mranv.pages.dev/rss.xml)
+</div>
 
-<p align="left">
-  
-  <a href="https://www.github.com/mranv" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+---
 
-  
-  <a href="http://www.instagram.com/anubhavgain" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+## 📊 GitHub Analytics
 
-  
-  <a href="https://www.linkedin.com/in/anubhavgain" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
-  
-  <a href="https://mranv.pages.dev/rss.xml" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
+---
 
-  
-  <a href="https://www.x.com/AnubhavGain" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" 
-           width="32" height="32" />
-    </picture>
-  </a>
-</p>
-
-### GitHub Stats
+## 🚀 Current Projects
 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" />
-</p>
+- **[mranv/unattendedWin](https://github.com/mranv/unattendedWin)** - The magic of automated Windows installations reaches a new peak of mediocrity.
+- **[mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw)** - 
+- **[mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor)** - 
+- **[mranv/rs-nats](https://github.com/mranv/rs-nats)** - 
+- **[techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io)** - website of techanv consulting services
 
-### 👷 Check out what I'm currently working on
+---
 
-
-
-- [mranv/unattendedWin](https://github.com/mranv/unattendedWin) - The magic of automated Windows installations reaches a new peak of mediocrity.
-- [mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw) - 
-- [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
-- [mranv/rs-nats](https://github.com/mranv/rs-nats) - 
-- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
-
-### 🌱 My latest projects
+## 🌱 Latest Repositories
 
 
+- **[mranv/vitepress-theme-curve](https://github.com/mranv/vitepress-theme-curve)** 
+- **[mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw)** 
+- **[mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor)** 
+- **[mranv/macosEndpointSecurity](https://github.com/mranv/macosEndpointSecurity)** 
+- **[mranv/endpointsecurityapi](https://github.com/mranv/endpointsecurityapi)** 
 
-- [mranv/vitepress-theme-curve](https://github.com/mranv/vitepress-theme-curve) - 
-- [mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw) - 
-- [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
-- [mranv/macosEndpointSecurity](https://github.com/mranv/macosEndpointSecurity) - 
-- [mranv/endpointsecurityapi](https://github.com/mranv/endpointsecurityapi) - 
+---
 
-### 🔨 My recent Pull Requests
-
-
-
-### ⭐ Recent Stars
+## ⭐ Recently Starred
 
 
+- **[zero2504/COMouflage](https://github.com/zero2504/COMouflage)** - COM-based DLL Surrogate Injection
+- **[marty-thane/marble](https://github.com/marty-thane/marble)** - An automated ricing solution for Void Linux.
+- **[ishiharas/Smart-Lights-Yeelight](https://github.com/ishiharas/Smart-Lights-Yeelight)** - Control Yeelight Devices quickly from your Mac OS Tray
+- **[Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles)** - My personal build of dotfiles using i3.
+- **[dikiaap/dotfiles](https://github.com/dikiaap/dotfiles)** - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 
-- [zero2504/COMouflage](https://github.com/zero2504/COMouflage) - COM-based DLL Surrogate Injection
-- [marty-thane/marble](https://github.com/marty-thane/marble) - An automated ricing solution for Void Linux.
-- [ishiharas/Smart-Lights-Yeelight](https://github.com/ishiharas/Smart-Lights-Yeelight) - Control Yeelight Devices quickly from your Mac OS Tray
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
-- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+---
 
-### 📰 Recent Blog Posts
-
+## 📝 Latest Blog Posts
 
 
 - [eBPF SSL/TLS Encrypted Traffic Analysis: Real-Time Insights Without Certificates](https://mranv.pages.dev/posts/ebpf-ssl-tls-encrypted-traffic-analysis/)
@@ -118,10 +63,16 @@
 - [eBPF TLS Tracing: The Past, Present and Future of Encrypted Traffic Observability](https://mranv.pages.dev/posts/ebpf-tls-tracing-past-present-future/)
 - [eBPF Map Metrics Prometheus Exporter: Advanced Observability with eBPF Iterators](https://mranv.pages.dev/posts/ebpf-map-metrics-prometheus-exporter/)
 
-### 📫 How to reach me:
+---
 
+<div align="center">
+  <h3>📫 Connect With Me</h3>
 
-- **Twitter:** <https://twitter.com/AnubhavGain>  
-- **Website:** <https://mranv.pages.dev>  
-- **LinkedIn:** <https://www.linkedin.com/in/anubhavgain>  
-- **Instagram:** <https://www.instagram.com/anubhavgain>
+  [![Website](https://img.shields.io/badge/🌐_Website-mranv.pages.dev-blue?style=for-the-badge)](https://mranv.pages.dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-@AnubhavGain-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnubhavGain)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhavgain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavgain)
+  [![Instagram](https://img.shields.io/badge/Instagram-anubhavgain-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anubhavgain)
+
+  <p><i>💡 Passionate about eBPF, Cybersecurity, and Cloud Technologies</i></p>
+  <p><sub>⚡ Profile updates weekly via GitHub Actions</sub></p>
+</div>
