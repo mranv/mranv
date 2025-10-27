@@ -16,7 +16,7 @@ Building security solutions with Rust, Go & Python
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" alt="GitHub Metrics" width="800" />
 
 </div>
 
