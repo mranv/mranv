@@ -29,7 +29,6 @@ Building security solutions with Rust, Go & Python
 - [mranv/svelte-exceldraw](https://github.com/mranv/svelte-exceldraw) - 
 - [mranv/ebpf-log-monitor](https://github.com/mranv/ebpf-log-monitor) - 
 - [mranv/rs-nats](https://github.com/mranv/rs-nats) - 
-- [techanvconsulting/techanvconsulting.github.io](https://github.com/techanvconsulting/techanvconsulting.github.io) - website of techanv consulting services
 
 ### Recent Projects
 
@@ -59,11 +58,11 @@ Building security solutions with Rust, Go & Python
 ### Latest Blog Posts
 
 
+- [MSCRED: Deep Neural Network for Unsupervised Anomaly Detection in Multivariate Time Series](https://mranv.pages.dev/posts/2025/machine-learning/mscred-anomaly-detection-multivariate-timeseries/)
+- [Building ML-Powered Threat Intelligence with Honeypot Datasets: From Raw Data to Production Models](https://mranv.pages.dev/posts/ml-threat-intelligence-honeypot-datasets/)
 - [eBPF SSL/TLS Encrypted Traffic Analysis: Real-Time Insights Without Certificates](https://mranv.pages.dev/posts/ebpf-ssl-tls-encrypted-traffic-analysis/)
 - [eBPF Map Pressure Monitoring using eBPF Iterators: Preventing Performance Bottlenecks](https://mranv.pages.dev/posts/ebpf-map-pressure-monitoring-iterators/)
 - [eBPF: Revolutionizing Observability for DevOps and SRE Teams](https://mranv.pages.dev/posts/ebpf-revolutionizing-observability-devops-sre/)
-- [eBPF TLS Tracing: The Past, Present and Future of Encrypted Traffic Observability](https://mranv.pages.dev/posts/ebpf-tls-tracing-past-present-future/)
-- [eBPF Map Metrics Prometheus Exporter: Advanced Observability with eBPF Iterators](https://mranv.pages.dev/posts/ebpf-map-metrics-prometheus-exporter/)
 
 ---
 
