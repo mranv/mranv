@@ -49,11 +49,11 @@ Building security solutions with Rust, Go & Python
 ### Recently Starred
 
 
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [zero2504/COMouflage](https://github.com/zero2504/COMouflage) - COM-based DLL Surrogate Injection
 - [marty-thane/marble](https://github.com/marty-thane/marble) - An automated ricing solution for Void Linux.
 - [ishiharas/Smart-Lights-Yeelight](https://github.com/ishiharas/Smart-Lights-Yeelight) - Control Yeelight Devices quickly from your Mac OS Tray
-- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - Arch dotfiles. i3 dotfiles.
 
 ### Latest Blog Posts
 
