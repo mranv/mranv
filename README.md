@@ -49,11 +49,11 @@ Building security solutions with Rust, Go & Python
 ### Recently Starred
 
 
+- [siduck/dotfiles](https://github.com/siduck/dotfiles) - dotfiles for my beautiful rices! (OUTDATED BUT WORKS)
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+- [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [zero2504/COMouflage](https://github.com/zero2504/COMouflage) - COM-based DLL Surrogate Injection
-- [marty-thane/marble](https://github.com/marty-thane/marble) - An automated ricing solution for Void Linux.
-- [ishiharas/Smart-Lights-Yeelight](https://github.com/ishiharas/Smart-Lights-Yeelight) - Control Yeelight Devices quickly from your Mac OS Tray
 
 ### Latest Blog Posts
 
