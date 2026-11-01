@@ -16,6 +16,10 @@ Building security solutions with Rust, Go & Python
 
 <br>
 
+<img src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+
+<br>
+
 <img src="https://raw.githubusercontent.com/mranv/mranv/main/github-metrics.svg" alt="GitHub Metrics" width="800" />
 
 </div>
