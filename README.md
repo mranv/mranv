@@ -12,7 +12,7 @@ Building security solutions with Rust, Go & Python
 
 <br>
 
-[GitHub](https://github.com/mranv) • [LinkedIn](https://linkedin.com/in/anubhavgain) • [Website](https://mranv.pages.dev) • [Twitter](https://twitter.com/AnubhavGain) • [Blog](https://mranv.pages.dev/rss.xml)
+[GitHub](https://github.com/mranv) • [LinkedIn](https://linkedin.com/in/anubhavgain) • [Website](https://mranv.github.io/) • [Twitter](https://twitter.com/AnubhavGain) • [Blog](https://mranv.pages.dev/)
 
 <br>
 
